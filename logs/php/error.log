@@ -1,0 +1,28 @@
+[29-Sep-2021 12:42:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 31
+[29-Sep-2021 12:42:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 31
+[29-Sep-2021 12:42:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 31
+[29-Sep-2021 13:33:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function __(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 33 and at least 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\l10n.php:288
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(33): __()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_primary_navigation('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php(48): do_action('storefront_head...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Site in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\l10n.php on line 288
+[29-Sep-2021 13:33:36 UTC] PHP Warning:  Use of undefined constant __ - assumed '__' (this will throw an Error in a future version of PHP) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 33
+[29-Sep-2021 13:33:36 UTC] PHP Stack trace:
+[29-Sep-2021 13:33:36 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Sep-2021 13:33:36 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Sep-2021 13:33:36 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Sep-2021 13:33:36 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Sep-2021 13:33:36 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\template-fullwidth.php:10
+[29-Sep-2021 13:33:36 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Sep-2021 13:33:36 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Sep-2021 13:33:36 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Sep-2021 13:33:36 UTC] PHP   9. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:48
+[29-Sep-2021 13:33:36 UTC] PHP  10. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[29-Sep-2021 13:33:36 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[29-Sep-2021 13:33:36 UTC] PHP  12. storefront_primary_navigation() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[29-Sep-2021 14:51:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 63
+[29-Sep-2021 14:51:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 63

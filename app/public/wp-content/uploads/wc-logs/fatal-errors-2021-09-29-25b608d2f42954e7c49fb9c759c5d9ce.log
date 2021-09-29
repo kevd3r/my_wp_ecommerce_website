@@ -1,0 +1,20 @@
+2021-09-29T12:42:37+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 31
+
+2021-09-29T12:42:38+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 31
+
+2021-09-29T12:42:40+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 31
+
+2021-09-29T13:33:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function __(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 33 and at least 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\l10n.php:288
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(33): __()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_primary_navigation('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php(48): do_action('storefront_head...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Site dans C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\l10n.php à la ligne 288
+
+2021-09-29T14:51:09+00:00 CRITICAL syntax error, unexpected ';', expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 63
+
+2021-09-29T14:51:10+00:00 CRITICAL syntax error, unexpected ';', expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 63
+
