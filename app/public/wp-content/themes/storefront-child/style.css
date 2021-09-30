@@ -22,6 +22,11 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*font-family: 'Poppins', sans-serif;*/
+*{
+    font-family: 'Poppins', sans-serif;
+}
  /*------------------ New header's css-----------------*/
 #masthead{
     padding-top: 3vh;
@@ -30,6 +35,7 @@ Images License: GNU General Public License v2 or later
 .site-branding{
     width: auto;
     margin: 0;
+    align-items: center;
 }
 img.custom-logo{
     max-height: 3.5vh;
@@ -37,8 +43,32 @@ img.custom-logo{
 button.menu-toggle, button.menu-toggle:hover{
     border: none;
 }
+.main-title{
+    font-size: 2.1vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 2vh;
+}
+
 @media screen and (max-width: 767px) {
     .wp-block-columns{
         display: none;
+    }
+    .wc-block-grid__product{
+        display: none;
+    }
+    .site-branding{
+        display: flex;
+    }
+    footer{
+        display: none;
+    }
+    .site-content{
+      background-color:lightslategray;
+      height: 80%;
+    }
+    h2.has-text-align-center{
+        color: white;
+        font-weight: bold;
     }
 }

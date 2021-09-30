@@ -60,8 +60,8 @@ function sf_child_theme_dequeue_style() {
 function storefront_site_title_or_logo( $echo = true ) {
   if ( function_exists( 'the_custom_logo' ) && has_custom_logo() ) {
     $logo = get_custom_logo();
-    $mainTitle = get_bloginfo('name');
-    $html = is_home() ? '<div><h1 class="logo">' . $logo . '</h1><p>'.$mainTitle.'</p></div>' : $logo;
+    $mainTitle = '<h2 class="main-title">'.get_bloginfo( 'name' ).'</h2>';
+    $html = is_home() ? '<h1 class="logo">' . $logo . '</h1>' : $logo;
   } else {
     $tag = is_home() ? 'h1' : 'div';
     $html = '<' . esc_attr( $tag ) . ' class="beta site-title"><a href="' . esc_url( home_url( '/' ) ) . '" rel="home">' . esc_html( get_bloginfo( 'name' ) ) . '</a></' . esc_attr( $tag ) . '>';
@@ -69,11 +69,9 @@ function storefront_site_title_or_logo( $echo = true ) {
       $html .= '<p class="site-description">' . esc_html( get_bloginfo( 'description', 'display' ) ) . '</p>';
     }
   }
-
   if ( ! $echo ) {
     return $html;
   }
 
-  echo $html; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+  echo $html, $mainTitle; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 }
-

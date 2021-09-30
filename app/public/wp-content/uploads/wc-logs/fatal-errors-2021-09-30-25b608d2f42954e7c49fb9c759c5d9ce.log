@@ -1,0 +1,6 @@
+2021-09-30T07:49:02+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 81
+
+2021-09-30T07:49:03+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 81
+
+2021-09-30T12:12:33+00:00 CRITICAL require_once(): Failed opening required 'C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child/widgets/class-wc-widget-product-search.php' (include_path='.:/usr/share/php:/www/wp-content/pear') dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 49
+
