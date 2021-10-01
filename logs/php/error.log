@@ -50,3 +50,67 @@ Stack trace:
 [30-Sep-2021 12:12:33 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
 [01-Oct-2021 10:05:48 UTC] PHP Parse error:  syntax error, unexpected 'storefront_primary_navigation' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 83
 [01-Oct-2021 10:05:50 UTC] PHP Parse error:  syntax error, unexpected 'storefront_primary_navigation' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 83
+[01-Oct-2021 14:34:42 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:34:42 UTC] PHP Stack trace:
+[01-Oct-2021 14:34:42 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:34:42 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:34:42 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:34:42 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:34:42 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:34:42 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:34:43 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:34:43 UTC] PHP Stack trace:
+[01-Oct-2021 14:34:43 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:34:43 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:34:43 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:34:43 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:34:43 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:34:43 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:36 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:36 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:36 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:36 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:36 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:36 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:36 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:36 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:37 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:37 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:37 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:37 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:37 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:37 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:37 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:37 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:42 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:42 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:42 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:42 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:42 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:42 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:42 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:42 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:43 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:43 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:43 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:43 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:43 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:43 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:43 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:43 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:44 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:44 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:44 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:44 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:44 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:44 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:44 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:44 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546
+[01-Oct-2021 14:35:46 UTC] PHP Fatal error:  Cannot redeclare storefront_homepage_content_styles() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:90) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-functions.php on line 100
+[01-Oct-2021 14:35:46 UTC] PHP Stack trace:
+[01-Oct-2021 14:35:46 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[01-Oct-2021 14:35:46 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[01-Oct-2021 14:35:46 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[01-Oct-2021 14:35:46 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[01-Oct-2021 14:35:46 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[01-Oct-2021 14:35:46 UTC] PHP   6. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-settings.php:546

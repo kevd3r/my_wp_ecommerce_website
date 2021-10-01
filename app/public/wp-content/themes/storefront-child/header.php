@@ -62,7 +62,7 @@
 
 	<div id="content" class="site-content" tabindex="-1">
 	<div id="empty-div">
-	
+		<h2 id="welcoming_title">Sale of the<br>Summer<br>collection</h2>
 	</div>
 		<div class="col-full">
 		<?php

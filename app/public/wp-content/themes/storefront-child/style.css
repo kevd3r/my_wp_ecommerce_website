@@ -120,5 +120,11 @@ button.menu-toggle, button.menu-toggle:hover{
         height: 35vh;
         width: 100%;
         background-color: transparent;
+        justify-items: center;
+    }
+    #welcoming_title{
+        font-size: 5vw;
+        color: white;
+        font-weight: bold;
     }
 }
