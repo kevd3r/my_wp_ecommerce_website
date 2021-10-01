@@ -60,7 +60,7 @@ function sf_child_theme_dequeue_style() {
 function storefront_site_title_or_logo( $echo = true ) {
   if ( function_exists( 'the_custom_logo' ) && has_custom_logo() ) {
     $logo = get_custom_logo();
-    $mainTitle = '<h2 class="main-title">'.get_bloginfo( 'name' ).'</h2>';
+    $mainTitle = '<h2 class="main-title" style="font-weight: bold;white-space:nowrap;">'.get_bloginfo( 'name' ).'</h2>';
     $html = is_home() ? '<h1 class="logo">' . $logo . '</h1>' : $logo;
   } else {
     $tag = is_home() ? 'h1' : 'div';
@@ -74,4 +74,15 @@ function storefront_site_title_or_logo( $echo = true ) {
   }
 
   echo $html, $mainTitle; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+}
+
+/**
+ * menu on top header
+ */
+function storefront_site_branding() {
+  ?>
+  <div class="site-branding">
+    <?php storefront_site_title_or_logo(); ?>
+  </div>
+  <?php
 }

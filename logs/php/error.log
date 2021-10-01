@@ -48,3 +48,5 @@ Stack trace:
 [30-Sep-2021 12:12:33 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
 [30-Sep-2021 12:12:33 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
 [30-Sep-2021 12:12:33 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[01-Oct-2021 10:05:48 UTC] PHP Parse error:  syntax error, unexpected 'storefront_primary_navigation' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 83
+[01-Oct-2021 10:05:50 UTC] PHP Parse error:  syntax error, unexpected 'storefront_primary_navigation' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 83
