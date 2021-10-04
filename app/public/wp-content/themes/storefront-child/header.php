@@ -47,6 +47,7 @@
 		 */
 		do_action( 'storefront_header' );
 		?>
+
 		
 	</header><!-- #masthead -->
 
@@ -61,9 +62,7 @@
 	?>
 
 	<div id="content" class="site-content" tabindex="-1">
-	<div id="empty-div">
-	
-	</div>
 		<div class="col-full">
 		<?php
-		do_action( 'storefront_content_top' );
+		do_action( 'storefront_content_top' );?>
+		

@@ -55,7 +55,7 @@ button.menu-toggle, button.menu-toggle:hover{
     #empty-div{
         height: 60vh;
         width: 100vw;
-        background-image: url(/images/Frontpage_elements/mobile_frontpage_image_sm.png);
+        background-image: url(assets/img/mobile_frontpage_image_sm.png);
     }
     .wp-block-columns{
         display: none;
@@ -76,49 +76,105 @@ button.menu-toggle, button.menu-toggle:hover{
     
 }
 @media screen and (min-width : 768px) {
+    /*----------- header'css---------*/
    .site-header .site-branding{
        display: flex;
        align-items: center;
    }
-   .site-branding{
-       align-items: center;
-   }
+
    .main-title{
        font-size: 3vh;
        color: white;
        flex-wrap: nowrap;
    }
+
    .site-header{
        border-bottom: none;
        display:flex;
+       width: 100%;
    }
+
    .site-search{
        display: none;
    }
+
    #menu-main-menu{
        white-space: nowrap;
    }
+
    #menu-main-menu>li>a{
        font-weight: bold;
        color: white;
    }
+
    #masthead{
        display: flex;
        background: transparent;
+       width: 100%;
    }
+
    #masthead>div{
        margin: 0;
+       margin-top: auto;
+       margin-bottom: auto;
    }
-   img.custom-logo{
-    max-height: 3vh;
-    filter: invert();
+
+   .custom-logo-link{
+        display:flex;
+        width:100px;
+   }
+    .custom-logo{
+        filter: invert();
+        margin-top: auto;
+        margin-bottom: auto;
     }
+
+    .storefront-primary-navigation{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
     .storefront-primary-navigation>div>ul{
         display: none;
     }
+
+    /*------------main page's css------------*/
     #empty-div{
         height: 35vh;
         width: 100%;
         background-color: transparent;
     }
+
+    .entry-content>h2{
+        margin-left : 0;
+        margin-right:0;
+    }
+
+   .entry-content{
+    margin-top: 12%;
+   }
+
+   .wp-block-group>div{
+       width: 80%;
+       font-size: 3.5vw;
+       font-weight: bold;
+       margin: 0;
+   }
+
+   .wp-block-group__inner-container>h2{
+       display: none;
+   }
+
+   .wp-block-group>div{
+       margin-left: auto;
+       margin-right: auto;
+   }
+
+   .wp-block-group__inner-container>p{
+       color: white;
+       width: 80%;
+       height: 12vw;
+   }
+   /*------------------footer's css---------------*/
 }
