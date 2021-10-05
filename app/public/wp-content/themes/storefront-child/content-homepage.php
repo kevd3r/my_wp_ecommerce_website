@@ -6,7 +6,9 @@
  */
 
 ?>
-<?php echo do_shortcode("[bee-slider id=235]"); ?>
+<?php
+echo do_shortcode('[smartslider3 slider="3"]');
+?>
 <?php
 $featured_image = get_the_post_thumbnail_url( get_the_ID(), 'thumbnail' );
 ?>
@@ -22,6 +24,5 @@ $featured_image = get_the_post_thumbnail_url( get_the_ID(), 'thumbnail' );
 		 */
 		do_action( 'storefront_homepage' );
 		?>
-		azerty
 	</div>
 </div><!-- #post-## -->

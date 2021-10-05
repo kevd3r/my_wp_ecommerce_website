@@ -76,6 +76,16 @@ button.menu-toggle, button.menu-toggle:hover{
     
 }
 @media screen and (min-width : 768px) {
+    body{
+        display: flex;
+    }
+    #page{
+        width: 100%;
+        height: auto;
+    }
+    #page>div:first-child{
+        position: absolute;
+    }
     /*----------- header'css---------*/
    .site-header .site-branding{
        display: flex;
@@ -140,12 +150,32 @@ button.menu-toggle, button.menu-toggle:hover{
     }
 
     /*------------main page's css------------*/
-    #empty-div{
-        height: 35vh;
+    #content>div:first-child{
         width: 100%;
-        background-color: transparent;
+        max-width: none;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0;
     }
-
+    #primary{
+        display: flex;
+    }
+    #main{
+        width: 100%;
+    }
+    #main>div:first-child{
+        display: none;
+    }
+    .entry-header{
+        width: 35%;
+        margin-left: 0;
+    }
+    .entry-title{
+        font-size: 7vh;
+        font-weight: bold;
+        color: white;
+        text-align: start;
+    }
     .entry-content>h2{
         margin-left : 0;
         margin-right:0;
