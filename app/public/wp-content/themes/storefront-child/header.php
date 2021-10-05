@@ -66,7 +66,7 @@ echo do_shortcode('[smartslider3 slider="3"]');
 
 	<div id="content" class="site-content" tabindex="-1">
 		<div class="col-full">
-
+		
 		<?php
 		do_action( 'storefront_content_top' );?>
 		

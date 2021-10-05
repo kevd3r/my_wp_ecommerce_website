@@ -86,3 +86,4 @@ function storefront_site_branding() {
   </div>
   <?php
 }
+
