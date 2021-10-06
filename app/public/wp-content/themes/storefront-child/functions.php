@@ -87,3 +87,24 @@ function storefront_site_branding() {
   <?php
 }
 
+function storefront_page_content() {
+  ?>
+  <div class="entry-content">
+    <div>
+      <div>
+
+      </div>
+    </div>
+
+    <?php the_content(); ?>
+    <?php
+      wp_link_pages(
+        array(
+          'before' => '<div class="page-links">' . __( 'Pages:', 'storefront' ),
+          'after'  => '</div>',
+        )
+      );
+    ?>
+  </div><!-- .entry-content -->
+  <?php
+}

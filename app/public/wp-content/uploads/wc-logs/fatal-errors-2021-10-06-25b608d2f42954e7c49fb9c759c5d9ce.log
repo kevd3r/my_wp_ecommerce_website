@@ -1,0 +1,92 @@
+2021-10-06T07:15:57+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 98
+
+2021-10-06T07:15:58+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 98
+
+2021-10-06T10:04:16+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:17+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:35+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:36+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:46+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:46+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:46+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:58+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:04:59+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:05:01+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:05:16+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:05:27+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:07:17+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:07:28+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:07:43+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:07:44+00:00 CRITICAL syntax error, unexpected ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 100
+
+2021-10-06T10:14:15+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T10:14:16+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T10:14:38+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T10:14:43+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:42:42+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:46:19+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:46:21+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:46:22+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:52:45+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:53:01+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:53:03+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:53:45+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:54:05+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:54:06+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:54:11+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:54:12+00:00 CRITICAL syntax error, unexpected 'get_category_to_edit' (T_STRING) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 99
+
+2021-10-06T11:54:19+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T11:54:20+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T11:54:43+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T11:54:45+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T11:54:45+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T11:54:46+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 117
+
+2021-10-06T12:16:44+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 102
+
+2021-10-06T12:16:44+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 102
+
+2021-10-06T12:49:47+00:00 CRITICAL syntax error, unexpected end of file, expecting '(' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 115
+
+2021-10-06T12:49:49+00:00 CRITICAL syntax error, unexpected end of file, expecting '(' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 115
+
+2021-10-06T12:50:00+00:00 CRITICAL syntax error, unexpected end of file, expecting '(' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 115
+
+2021-10-06T12:50:01+00:00 CRITICAL syntax error, unexpected end of file, expecting '(' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 115
+

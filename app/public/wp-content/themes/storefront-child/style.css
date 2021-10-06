@@ -166,19 +166,32 @@ button.menu-toggle, button.menu-toggle:hover{
     #main>div:first-child{
         display: none;
     }
-    #main:nth-child(2)>.col-full{
-        margin-left: 0;
+    
+    /*----------- bottom of the photo organisation ----------*/
+    #post-43 div:first-child{
+      margin-left: 5%;
+      margin-right: 5%;
+      max-width: none;
+      padding: 0;
     }
-    .entry-header{
-        width: 35%;
-        margin-left: 0;
+    #post-43>div>header{
+      width: 25%;
+      margin-left: 30%;
+      margin-right: auto;
+      max-width: none;
     }
+   #post-43>div>div:first-of-type{
+     margin-left: auto;
+     margin-right: auto;
+     
+   }
     .entry-title{
         font-size: 7vh;
         font-weight: bold;
         color: white;
         text-align: start;
     }
+
     .entry-content>h2{
         margin-left : 0;
         margin-right:0;
