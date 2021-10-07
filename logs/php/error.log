@@ -186,3 +186,337 @@ Stack trace:
 [06-Oct-2021 12:49:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 115
 [06-Oct-2021 12:50:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 115
 [06-Oct-2021 12:50:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 115
+[07-Oct-2021 06:58:27 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 96
+[07-Oct-2021 06:58:28 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 96
+[07-Oct-2021 06:59:01 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 96
+[07-Oct-2021 06:59:02 UTC] PHP Parse error:  syntax error, unexpected '25' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 96
+[07-Oct-2021 07:24:24 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:25 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:30 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:30 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:50 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:50 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:24:59 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:00 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:05 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:06 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:07 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:30 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:32 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:32 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:33 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:33 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:34 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:34 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:35 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:35 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:36 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:25:49 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:26:31 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:26:36 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:26:37 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 07:26:37 UTC] PHP Parse error:  syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 08:07:12 UTC] PHP Fatal error:  Maximum execution time of 1200 seconds exceeded in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\option.php on line 90
+[07-Oct-2021 08:07:12 UTC] PHP Stack trace:
+[07-Oct-2021 08:07:12 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:07:12 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:07:12 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:07:12 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:07:12 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:07:12 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:07:12 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:07:12 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:07:12 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:07:12 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:07:12 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:07:12 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:07:12 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:07:12 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:07:12 UTC] PHP  23. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render_callback() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:07:12 UTC] PHP  24. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php:85
+[07-Oct-2021 08:07:12 UTC] PHP  25. array_map() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  26. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  27. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->prepare_product_price_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:442
+[07-Oct-2021 08:07:12 UTC] PHP  28. wc_get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:693
+[07-Oct-2021 08:07:12 UTC] PHP  29. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\includes\wc-formatting-functions.php:535
+[07-Oct-2021 08:07:12 UTC] PHP  30. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  31. WCPay\MultiCurrency\FrontendCurrencies->get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  32. WCPay\MultiCurrency\FrontendCurrencies->get_store_currency() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:108
+[07-Oct-2021 08:07:12 UTC] PHP  33. get_option() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:87
+[07-Oct-2021 08:07:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 50811059 bytes) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php on line 112
+[07-Oct-2021 08:07:12 UTC] PHP Stack trace:
+[07-Oct-2021 08:07:12 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:07:12 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:07:12 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:07:12 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:07:12 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:07:12 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:07:12 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:07:12 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:07:12 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:07:12 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:07:12 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:07:12 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:07:12 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:07:12 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:07:12 UTC] PHP  23. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render_callback() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:07:12 UTC] PHP  24. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php:85
+[07-Oct-2021 08:07:12 UTC] PHP  25. array_map() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  26. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  27. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->prepare_product_price_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:442
+[07-Oct-2021 08:07:12 UTC] PHP  28. wc_get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:693
+[07-Oct-2021 08:07:12 UTC] PHP  29. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\includes\wc-formatting-functions.php:535
+[07-Oct-2021 08:07:12 UTC] PHP  30. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  31. WCPay\MultiCurrency\FrontendCurrencies->get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  32. WCPay\MultiCurrency\FrontendCurrencies->get_store_currency() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:108
+[07-Oct-2021 08:07:12 UTC] PHP  33. get_option() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:87
+[07-Oct-2021 08:07:12 UTC] PHP  34. shutdown_action_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:0
+[07-Oct-2021 08:07:12 UTC] PHP  35. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:1097
+[07-Oct-2021 08:07:12 UTC] PHP  36. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP  37. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP  38. Nextend\WordPress\OutputBuffer->closeOutputBuffers() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  39. ob_end_flush() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:07:12 UTC] PHP  40. Nextend\WordPress\OutputBuffer->outputCallback() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:07:12 UTC] PHP  41. Nextend\WordPress\OutputBuffer->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:226
+[07-Oct-2021 08:07:12 UTC] PHP  42. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:234
+[07-Oct-2021 08:07:12 UTC] PHP  43. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  44. Nextend\Framework\WordPress\AssetInjector->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  45. implode() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php:112
+[07-Oct-2021 08:07:12 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2021 08:07:12 UTC] PHP Stack trace:
+[07-Oct-2021 08:07:12 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:07:12 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:07:12 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:07:12 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:07:12 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:07:12 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:07:12 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:07:12 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:07:12 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:07:12 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:07:12 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:07:12 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:07:12 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:07:12 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:07:12 UTC] PHP  23. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render_callback() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:07:12 UTC] PHP  24. Automattic\WooCommerce\Blocks\BlockTypes\HandpickedProducts->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php:85
+[07-Oct-2021 08:07:12 UTC] PHP  25. array_map() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  26. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->get_item_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php:93
+[07-Oct-2021 08:07:12 UTC] PHP  27. Automattic\WooCommerce\Blocks\StoreApi\Schemas\ProductSchema->prepare_product_price_response() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:442
+[07-Oct-2021 08:07:12 UTC] PHP  28. wc_get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ProductSchema.php:693
+[07-Oct-2021 08:07:12 UTC] PHP  29. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce\includes\wc-formatting-functions.php:535
+[07-Oct-2021 08:07:12 UTC] PHP  30. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  31. WCPay\MultiCurrency\FrontendCurrencies->get_price_decimals() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  32. WCPay\MultiCurrency\FrontendCurrencies->get_store_currency() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:108
+[07-Oct-2021 08:07:12 UTC] PHP  33. get_option() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\woocommerce-payments\includes\multi-currency\FrontendCurrencies.php:87
+[07-Oct-2021 08:07:12 UTC] PHP  34. shutdown_action_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:0
+[07-Oct-2021 08:07:12 UTC] PHP  35. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:1097
+[07-Oct-2021 08:07:12 UTC] PHP  36. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:07:12 UTC] PHP  37. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:07:12 UTC] PHP  38. Nextend\WordPress\OutputBuffer->closeOutputBuffers() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  39. ob_end_flush() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:07:12 UTC] PHP  40. Nextend\WordPress\OutputBuffer->outputCallback() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:07:12 UTC] PHP  41. Nextend\WordPress\OutputBuffer->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:226
+[07-Oct-2021 08:07:12 UTC] PHP  42. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:234
+[07-Oct-2021 08:07:12 UTC] PHP  43. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:07:12 UTC] PHP  44. Nextend\Framework\WordPress\AssetInjector->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:07:12 UTC] PHP  45. implode() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php:112
+[07-Oct-2021 08:08:06 UTC] PHP Fatal error:  Maximum execution time of 1200 seconds exceeded in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php on line 347
+[07-Oct-2021 08:08:06 UTC] PHP Stack trace:
+[07-Oct-2021 08:08:06 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:08:06 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:08:06 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:08:06 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:08:06 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:08:06 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:08:06 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:08:06 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:08:06 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:08:06 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:08:06 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:08:06 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:08:06 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:08:06 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  23. render_block_core_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:08:06 UTC] PHP  24. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks\block.php:45
+[07-Oct-2021 08:08:06 UTC] PHP  25. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  26. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  27. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  28. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  29. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  30. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:257
+[07-Oct-2021 08:08:06 UTC] PHP  31. _wp_call_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:171
+[07-Oct-2021 08:08:06 UTC] PHP  32. WP_Hook->do_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:901
+[07-Oct-2021 08:08:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 52181291 bytes) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php on line 112
+[07-Oct-2021 08:08:06 UTC] PHP Stack trace:
+[07-Oct-2021 08:08:06 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:08:06 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:08:06 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:08:06 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:08:06 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:08:06 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:08:06 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:08:06 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:08:06 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:08:06 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:08:06 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:08:06 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:08:06 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:08:06 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  23. render_block_core_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:08:06 UTC] PHP  24. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks\block.php:45
+[07-Oct-2021 08:08:06 UTC] PHP  25. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  26. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  27. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  28. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  29. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  30. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:257
+[07-Oct-2021 08:08:06 UTC] PHP  31. _wp_call_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:171
+[07-Oct-2021 08:08:06 UTC] PHP  32. WP_Hook->do_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:901
+[07-Oct-2021 08:08:06 UTC] PHP  33. shutdown_action_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:0
+[07-Oct-2021 08:08:06 UTC] PHP  34. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:1097
+[07-Oct-2021 08:08:06 UTC] PHP  35. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP  36. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP  37. Nextend\WordPress\OutputBuffer->closeOutputBuffers() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  38. ob_end_flush() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:08:06 UTC] PHP  39. Nextend\WordPress\OutputBuffer->outputCallback() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:08:06 UTC] PHP  40. Nextend\WordPress\OutputBuffer->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:226
+[07-Oct-2021 08:08:06 UTC] PHP  41. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:234
+[07-Oct-2021 08:08:06 UTC] PHP  42. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:08:06 UTC] PHP  43. Nextend\Framework\WordPress\AssetInjector->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  44. implode() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php:112
+[07-Oct-2021 08:08:06 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[07-Oct-2021 08:08:06 UTC] PHP Stack trace:
+[07-Oct-2021 08:08:06 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[07-Oct-2021 08:08:06 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[07-Oct-2021 08:08:06 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[07-Oct-2021 08:08:06 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[07-Oct-2021 08:08:06 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[07-Oct-2021 08:08:06 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[07-Oct-2021 08:08:06 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[07-Oct-2021 08:08:06 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[07-Oct-2021 08:08:06 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[07-Oct-2021 08:08:06 UTC] PHP  13. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:25
+[07-Oct-2021 08:08:06 UTC] PHP  14. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP  16. storefront_page_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  17. the_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:102
+[07-Oct-2021 08:08:06 UTC] PHP  18. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\post-template.php:253
+[07-Oct-2021 08:08:06 UTC] PHP  19. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:08:06 UTC] PHP  20. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  21. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  22. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  23. render_block_core_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:221
+[07-Oct-2021 08:08:06 UTC] PHP  24. do_blocks() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks\block.php:45
+[07-Oct-2021 08:08:06 UTC] PHP  25. render_block() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:906
+[07-Oct-2021 08:08:06 UTC] PHP  26. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\blocks.php:868
+[07-Oct-2021 08:08:06 UTC] PHP  27. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  28. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  29. WP_Block->render() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:211
+[07-Oct-2021 08:08:06 UTC] PHP  30. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-block.php:257
+[07-Oct-2021 08:08:06 UTC] PHP  31. _wp_call_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:171
+[07-Oct-2021 08:08:06 UTC] PHP  32. WP_Hook->do_all_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:901
+[07-Oct-2021 08:08:06 UTC] PHP  33. shutdown_action_hook() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:0
+[07-Oct-2021 08:08:06 UTC] PHP  34. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\load.php:1097
+[07-Oct-2021 08:08:06 UTC] PHP  35. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[07-Oct-2021 08:08:06 UTC] PHP  36. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[07-Oct-2021 08:08:06 UTC] PHP  37. Nextend\WordPress\OutputBuffer->closeOutputBuffers() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  38. ob_end_flush() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:08:06 UTC] PHP  39. Nextend\WordPress\OutputBuffer->outputCallback() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:214
+[07-Oct-2021 08:08:06 UTC] PHP  40. Nextend\WordPress\OutputBuffer->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:226
+[07-Oct-2021 08:08:06 UTC] PHP  41. apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\WordPress\OutputBuffer.php:234
+[07-Oct-2021 08:08:06 UTC] PHP  42. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:189
+[07-Oct-2021 08:08:06 UTC] PHP  43. Nextend\Framework\WordPress\AssetInjector->prepareOutput() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[07-Oct-2021 08:08:06 UTC] PHP  44. implode() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\smart-slider-3\Nextend\Framework\WordPress\AssetInjector.php:112
+[07-Oct-2021 12:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_local_fieldgroup() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:95
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95
+[07-Oct-2021 12:20:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(95): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151
+[07-Oct-2021 12:21:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151
+[07-Oct-2021 12:22:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151
+[07-Oct-2021 12:22:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151
+[07-Oct-2021 12:22:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151

@@ -23,7 +23,22 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
- #RhinoShopBTtn{
-   border-radius: 50%;
-   background-color: goldenrod;
- }
+$base-red-color:#FF0000;
+$base-color-yellow:#FBB03B;
+$base-color-grey:#CECECE;
+$font-stack: "@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap')";
+
+*{
+  font-family:$font-stack;
+}
+
+ /*------------------ New header's css-----------------*/
+ #masthead{
+  padding-top: 3vh;
+  margin-bottom: 0;
+}
+.site-branding{
+  width: auto;
+  margin: 0;
+  align-items: center;
+}

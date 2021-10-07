@@ -1,0 +1,115 @@
+2021-10-07T06:58:27+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 96
+
+2021-10-07T06:58:28+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 96
+
+2021-10-07T06:59:01+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 96
+
+2021-10-07T06:59:02+00:00 CRITICAL syntax error, unexpected '25' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 96
+
+2021-10-07T07:24:24+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:25+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:30+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:30+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:50+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:50+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:24:59+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:00+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:05+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:06+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:07+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:30+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:32+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:32+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:33+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:33+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:34+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:34+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:35+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:35+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:36+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:25:49+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:26:31+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:26:36+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:26:37+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T07:26:37+00:00 CRITICAL syntax error, unexpected '" post_id="' (T_CONSTANT_ENCAPSED_STRING), expecting ')' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T12:02:21+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_fieldgroup() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:95
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 95
+
+2021-10-07T12:20:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 95 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(95): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php à la ligne 151
+
+2021-10-07T12:21:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php à la ligne 151
+
+2021-10-07T12:22:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php à la ligne 151
+
+2021-10-07T12:22:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php à la ligne 151
+
+2021-10-07T12:22:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function acf_add_local_field_group(), 0 passed in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 97 and exactly 1 expected in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php:151
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php(97): acf_add_local_field_group()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_page_content('')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\w dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php à la ligne 151
+

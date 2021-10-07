@@ -92,7 +92,7 @@ function storefront_page_content() {
   <div class="entry-content">
     <div>
       <div>
-
+       
       </div>
     </div>
 
@@ -108,3 +108,4 @@ function storefront_page_content() {
   </div><!-- .entry-content -->
   <?php
 }
+
