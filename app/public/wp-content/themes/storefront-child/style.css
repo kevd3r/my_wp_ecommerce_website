@@ -1,7 +1,7 @@
 /*
-Theme Name:   	Storefront Child Theme
-Theme URI:    	https://github.com/stuartduff/storefront-child-theme
-Author:       	Stuart Duff
+Theme Name:     Storefront Child Theme
+Theme URI:      https://github.com/stuartduff/storefront-child-theme
+Author:         Stuart Duff
 Author URI:     http://stuartduff.com
 Template:     	storefront
 Description:  	This is a blank child theme for WooThemes StoreFront theme
@@ -22,217 +22,142 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
- @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 /*font-family: 'Poppins', sans-serif;*/
-*{
-    font-family: 'Poppins', sans-serif;
-}
- /*------------------ New header's css-----------------*/
-#masthead{
-    padding-top: 3vh;
-    margin-bottom: 0;
-}
-.site-branding{
-    width: auto;
-    margin: 0;
-    align-items: center;
-}
-img.custom-logo{
-    max-height: 3vh;
-
-}
-button.menu-toggle, button.menu-toggle:hover{
-    border: none;
-}
-.main-title{
-    font-size: 2.1vh;
-    margin-top: auto;
-    margin-bottom: auto;
-    padding-left: 2vh;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
 }
 
-@media screen and (max-width: 767px) {
-    #empty-div{
-        height: 60vh;
-        width: 100vw;
-        background-image: url(assets/img/mobile_frontpage_image_sm.png);
-    }
-    .wp-block-columns{
-        display: none;
-    }
-    .wc-block-grid__product{
-        display: none;
-    }
-    .site-branding{
-        display: flex;
-    }
-    footer{
-        display: none;
-    }
-    h2.has-text-align-center{
-        color: white;
-        font-weight: bold;
-    }
-    
+body {
+  display: flex;
+  font-family: "Poppins", sans-serif;
 }
-@media screen and (min-width : 768px) {
-    body{
-        display: flex;
-    }
-    #page{
-        width: 100%;
-        height: auto;
-    }
-    #page>div:first-child{
-        position: absolute;
-    }
-    /*----------- header'css---------*/
-   .site-header .site-branding{
-       display: flex;
-       align-items: center;
-   }
 
-   .main-title{
-       font-size: 3vh;
-       color: white;
-       flex-wrap: nowrap;
-   }
+/*------------------ New header's css-----------------*/
+#page {
+  width: 100%;
+  height: auto;
+}
 
-   .site-header{
-       border-bottom: none;
-       display:flex;
-       width: 100%;
-   }
+#masthead {
+  padding-top: 3vh;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  border-bottom: none;
+  width: 100%;
+  background: transparent;
+}
+#masthead .col-full {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#masthead .col-full .site-search {
+  display: none;
+}
 
-   .site-search{
-       display: none;
-   }
+.site-branding {
+  width: auto;
+  margin: 0;
+  align-items: center;
+  display: flex;
+}
+.site-branding .custom-logo-link {
+  display: flex;
+  width: 100%;
+}
+.site-branding .custom-logo-link .custom-logo {
+  max-height: 3vh;
+  width: auto;
+  filter: invert(100%);
+}
+.site-branding .custom-logo-link .main-title {
+  color: white;
+  height: 2vh;
+  flex-wrap: nowrap;
+  margin-bottom: 0;
+}
 
-   #menu-main-menu{
-       white-space: nowrap;
-   }
+.storefront-primary-navigation {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+}
 
-   #menu-main-menu>li>a{
-       font-weight: bold;
-       color: white;
-   }
+#site-header-cart {
+  display: none;
+}
 
-   #masthead{
-       display: flex;
-       background: transparent;
-       width: 100%;
-   }
+#menu-main-menu {
+  white-space: nowrap;
+}
+#menu-main-menu li a {
+  color: white;
+  font-weight: bold;
+}
 
-   #masthead>div{
-       margin: 0;
-       margin-top: auto;
-       margin-bottom: auto;
-   }
+/*------------------ frontpage's css ------------ */
+#content {
+  display: flex;
+}
+#content .col-full {
+  display: flex;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  max-width: none;
+}
 
-   .custom-logo-link{
-        display:flex;
-        width:100px;
-   }
-    .custom-logo{
-        filter: invert();
-        margin-top: auto;
-        margin-bottom: auto;
-    }
+#primary {
+  display: flex;
+}
+#primary #main {
+  display: block;
+  width: 100%;
+  padding-top: 0;
+}
+#primary #main > div:first-child {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 
-    .storefront-primary-navigation{
-        display: flex;
-        justify-content: center;
-        width: 100%;
-    }
-
-    .storefront-primary-navigation>div>ul{
-        display: none;
-    }
-
-    /*------------main page's css------------*/
-    #content>div:first-child{
-        width: 100%;
-        max-width: none;
-        margin-left: 0;
-        margin-right: 0;
-        padding: 0;
-    }
-    #primary{
-        display: flex;
-    }
-    #main{
-        width: 100%;
-    }
-    #main>div:first-child{
-        display: none;
-    }
-    
-    /*----------- bottom of the photo organisation ----------*/
-    #post-43 div:first-child{
-      margin-left: 5%;
-      margin-right: 5%;
-      max-width: none;
-      padding: 0;
-    }
-    #post-43>div>header{
-      width: 25%;
-      margin-left: 30%;
-      margin-right: auto;
-      max-width: none;
-    }
-   #post-43>div>div:first-of-type{
-     margin-left: auto;
-     margin-right: auto;
-     
-   }
-    .entry-title{
-        font-size: 7vh;
-        font-weight: bold;
-        color: white;
-        text-align: start;
-    }
-
-    .entry-content>h2{
-        margin-left : 0;
-        margin-right:0;
-    }
-
-   .entry-content{
-    margin-top: 12%;
-   }
-
-    .goShopBtn{
-        border-radius: 50%;
-        background-color: #FBB03B;
-        max-height: 50px;
-        max-width: 50px;
-        text-align: center;
-        justify-content: center;
-        color: white;
-    }
-    .goShopBtn>p{
-        text-align: center;
-    }
-   .wp-block-group>div{
-       width: 80%;
-       font-size: 3.5vw;
-       font-weight: bold;
-       margin: 0;
-   }
-
-   .wp-block-group__inner-container>h2{
-       display: none;
-   }
-
-   .wp-block-group>div{
-       margin-left: auto;
-       margin-right: auto;
-   }
-
-   .wp-block-group__inner-container>p{
-       color: white;
-       width: 80%;
-       height: 12vw;
-   }
-   /*------------------footer's css---------------*/
+#post-43 {
+  display: flex;
+  width: 100%;
+  display: z block;
+}
+#post-43 .entry-header {
+  width: 100%;
+}
+#post-43 .entry-header .entry-title {
+  width: 60%;
+  text-align: start;
+  color: white;
+  font-weight: bold;
+}
+#post-43 .entry-content {
+  display: inline;
+  margin-left: 0;
+}
+#post-43 .entry-content .wp-block-columns {
+  display: flex;
+  background-color: white;
+  width: 80%;
+}
+#post-43 .entry-content .wp-block-columns .wp-block-column {
+  margin-left: 5%;
+}
+#post-43 .entry-content .wp-block-columns .wp-block-column div {
+  display: flex;
+}
+#post-43 .entry-content .wp-block-columns .wp-block-column div figure {
+  max-width: 60px;
 }

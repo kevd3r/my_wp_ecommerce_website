@@ -23,22 +23,146 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
+  /*font-family: 'Poppins', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 $base-red-color:#FF0000;
 $base-color-yellow:#FBB03B;
 $base-color-grey:#CECECE;
-$font-stack: "@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap')";
+$font-stack: 'Poppins',sans-serif;
+$media-small-screen:"@media screen and (max-width:468px)";
+$media-large-screen:"@media screen and (min-width : 768px)";
+@mixin frontpage-text(){
+  color: white;
+  font-weight: bold;
+}
 
 *{
   font-family:$font-stack;
 }
-
+body{
+  display: flex;
+  font-family:$font-stack;
+}
  /*------------------ New header's css-----------------*/
- #masthead{
+ 
+#page{
+  width: 100%;
+  height: auto;
+}
+
+#masthead{
   padding-top: 3vh;
   margin-bottom: 0;
+  display:flex;
+  align-items:center;
+  border-bottom: none;
+  width: 100%;
+  background: transparent;
+  .col-full{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    .site-search{
+      display: none;
+    } 
+  }
 }
 .site-branding{
   width: auto;
   margin: 0;
   align-items: center;
+  display: flex;
+  .custom-logo-link{
+    display: flex;
+    width: 100%;
+    .custom-logo{
+      max-height:3vh;
+      width: auto;
+      filter: invert(100%);
+    }
+    .main-title{
+      color: white;
+      height: 2vh;
+      flex-wrap: nowrap;
+      margin-bottom: 0;
+    }
+  }
+}
+.storefront-primary-navigation{
+  display: flex;
+  justify-content: center;
+  @include frontpage-text();
+  width: 100%;
+}
+#site-header-cart{
+  display: none;
+}
+#menu-main-menu{
+  white-space: nowrap;
+  li{
+    a{
+      @include frontpage-text();
+    }
+  }
+}
+/*------------------ frontpage's css ------------ */
+#content{
+  display: flex;
+  .col-full{
+    display: flex;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: none;
+  }
+}
+#primary{
+  display: flex;
+  #main{
+  display: block;
+  width: 100%;
+  padding-top: 0;
+    >div:first-child{
+      display: flex;
+      position: absolute;
+      top:0;
+      left:0;
+    }
+  }
+}
+#post-43{
+  display:flex;
+  width: 100%;
+    display:z block;
+    .entry-header{
+      width: 100%;
+      .entry-title{
+        width:60%;
+        text-align: start;
+        @include frontpage-text();
+      }
+    }
+    .entry-content{
+      display: inline;
+      margin-left: 0;
+        .wp-block-columns{
+          display:flex;
+          background-color: white;
+          width: 80%;
+            .wp-block-column{
+              margin-left: 5%;
+                div{
+                  display: flex;
+                    figure{
+                    max-width: 60px;
+
+                    }
+                }
+            }
+        }
+    }
 }
