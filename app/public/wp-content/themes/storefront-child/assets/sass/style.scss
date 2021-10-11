@@ -162,7 +162,10 @@ body{
           background-color: $base-color-yellow;
           border-radius: 50% 50%;
           color: white;
-          width: auto;
+          width: 4vh;
+          height: 4vh;
+          content: \002794;
+          justify-content: center;
         }
         >p{
           color: white;
@@ -201,23 +204,33 @@ body{
       }
   }
 }
-
+/*--------- first 3 images: special offers changeable by client*/
 .entry-content{
-  display: inline;
-  margin-left: 0;
-    .wp-block-columns{
-      display:flex;
-      background-color: white;
-      width: 80%;
-        .wp-block-column{
-          margin-left: 5%;
-            div{
-              display: flex;
-                figure{
-                max-width: 60px;
-
-                }
-            }
-        }
+  max-width: 90%;
+  min-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  .wp-block-column{/*resizing images' boxes*/
+    max-height: 436px;
+    >div{
+      max-height: 436px;
+    }
+    >div>img{
+      max-height: 436px;
     }
   }
+}
+/*---- css fro titles inside images -------*/
+.wp-block-cover__inner-container{
+  display: block;
+  padding: 0;
+  align-self: end;
+  padding-left: 2vh;
+  >p{
+    text-align: start;
+  }
+  >div{
+    width: fit-content;
+  }
+}

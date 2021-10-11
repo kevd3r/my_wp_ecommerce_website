@@ -19,7 +19,7 @@ $featured_image = get_the_post_thumbnail_url( get_the_ID(), 'thumbnail' );
 			<h2><?php the_field('main_title'); ?></h2>
 		</div>
 <div class="shopBtn">
-	<button id="shopNow">➔</button>
+	<button id="shopNow"><p>➔</p></button>
 	<p>SHOP NOW </p>
 </div>
 		<div id="bottom-banner">

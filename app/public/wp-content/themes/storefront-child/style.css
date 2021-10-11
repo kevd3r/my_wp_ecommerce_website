@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 Theme Name:     Storefront Child Theme
 Theme URI:      https://github.com/stuartduff/storefront-child-theme
@@ -162,7 +163,10 @@ body {
   background-color: #FBB03B;
   border-radius: 50% 50%;
   color: white;
-  width: auto;
+  width: 4vh;
+  height: 4vh;
+  content: ➔;
+  justify-content: center;
 }
 #post-43 .col-full .shopBtn > p {
   color: white;
@@ -201,21 +205,35 @@ body {
   display: none;
 }
 
+/*--------- first 3 images: special offers changeable by client*/
 .entry-content {
-  display: inline;
-  margin-left: 0;
-}
-.entry-content .wp-block-columns {
-  display: flex;
-  background-color: white;
-  width: 80%;
-}
-.entry-content .wp-block-columns .wp-block-column {
+  max-width: 90%;
+  min-width: 90%;
   margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
 }
-.entry-content .wp-block-columns .wp-block-column div {
-  display: flex;
+.entry-content .wp-block-column {
+  /*resizing images' boxes*/
+  max-height: 436px;
 }
-.entry-content .wp-block-columns .wp-block-column div figure {
-  max-width: 60px;
+.entry-content .wp-block-column > div {
+  max-height: 436px;
+}
+.entry-content .wp-block-column > div > img {
+  max-height: 436px;
+}
+
+/*---- css fro titles inside images -------*/
+.wp-block-cover__inner-container {
+  display: block;
+  padding: 0;
+  align-self: end;
+  padding-left: 2vh;
+}
+.wp-block-cover__inner-container > p {
+  text-align: start;
+}
+.wp-block-cover__inner-container > div {
+  width: fit-content;
 }
