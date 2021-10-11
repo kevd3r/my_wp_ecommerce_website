@@ -10,11 +10,11 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
-use ScssPhp\ScssPhp\Base\Range;
-use ScssPhp\ScssPhp\Exception\RangeException;
-use ScssPhp\ScssPhp\Node\Number;
+use MaxButtons\ScssPhp\ScssPhp\Base\Range;
+use MaxButtons\ScssPhp\ScssPhp\Exception\RangeException;
+use MaxButtons\ScssPhp\ScssPhp\Node\Number;
 
 /**
  * Utility functions

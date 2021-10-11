@@ -4,7 +4,7 @@ defined('ABSPATH') or die('No direct access permitted');
 $blockClass["container"] = "containerBlock";
 $blockOrder[70][] = "container";
 
-use \simple_html_dom as simple_html_dom;
+//use \simple_html_dom as simple_html_dom;
 
 class containerBlock extends maxBlock
 {

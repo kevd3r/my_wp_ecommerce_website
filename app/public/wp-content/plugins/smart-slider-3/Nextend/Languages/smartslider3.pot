@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-09-08 13:54+0200\n"
+"POT-Creation-Date: 2021-09-29 08:39+0200\n"
 "PO-Revision-Date: 2020-03-10 19:30+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1449,6 +1449,9 @@ msgstr ""
 msgid "Loading"
 msgstr ""
 
+msgid "Loading type"
+msgstr ""
+
 msgid "Instant"
 msgstr ""
 
@@ -1456,9 +1459,6 @@ msgid "After page loaded"
 msgstr ""
 
 msgid "After delay"
-msgstr ""
-
-msgid "Loading type"
 msgstr ""
 
 msgid "If your slider is above the fold, you can load it immediately. Otherwise, you can load it only after the page has loaded."
@@ -3550,6 +3550,9 @@ msgstr ""
 msgid "If you turn off this option, you can't switch to the first slide from the last one."
 msgstr ""
 
+msgid "Background animations only work on the slide background images, which have Fill selected at their Fill mode. They don't affect any images if the background parallax is enabled."
+msgstr ""
+
 msgid "Shifted"
 msgstr ""
 
@@ -3699,6 +3702,42 @@ msgid "Random elastic"
 msgstr ""
 
 msgid "My text animations"
+msgstr ""
+
+msgid "Morph - Wave"
+msgstr ""
+
+msgid "Morph - Brush"
+msgstr ""
+
+msgid "Morph - Flow"
+msgstr ""
+
+msgid "Morph - Noise"
+msgstr ""
+
+msgid "Distortion - Mosaic"
+msgstr ""
+
+msgid "Distortion - Triangle"
+msgstr ""
+
+msgid "Distortion - Flow"
+msgstr ""
+
+msgid "Distortion - Warp"
+msgstr ""
+
+msgid "Distortion - Storm"
+msgstr ""
+
+msgid "Distortion - Wave"
+msgstr ""
+
+msgid "Distortion - Shard"
+msgstr ""
+
+msgid "Distortion - Noise"
 msgstr ""
 
 msgid "Slices - Single"
@@ -5272,6 +5311,9 @@ msgid "Progress"
 msgstr ""
 
 msgid "Time"
+msgstr ""
+
+msgid "Icon Size"
 msgstr ""
 
 msgid "Full"

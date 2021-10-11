@@ -1,6 +1,6 @@
 <?php
 
-namespace ScssPhp\ScssPhp\Exception;
+namespace MaxButtons\ScssPhp\ScssPhp\Exception;
 
 interface SassException
 {

@@ -10,9 +10,9 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp\Formatter;
+namespace MaxButtons\ScssPhp\ScssPhp\Formatter;
 
-use ScssPhp\ScssPhp\Formatter;
+use MaxButtons\ScssPhp\ScssPhp\Formatter;
 
 /**
  * Expanded formatter

@@ -22,7 +22,7 @@ maxAjax.prototype.ajaxInit = function()
 {
 	data = {
 		action: maxajax.ajax_action,
-		nonce:  maxajax.nonce,
+		nonce:  maxajax.nonce
 	}
 
 	return data;
@@ -47,7 +47,6 @@ maxAjax.prototype.ajaxForm = function (e)
 	var data = this.ajaxInit();
 	data['form'] = form.serialize();
 	data['plugin_action'] = action;
-//	data['action'] = 'mb_button_action';
 
 	$(document).trigger('maxajax_formpost_' + action, [data,target]);
 
@@ -98,9 +97,7 @@ maxAjax.prototype.showSpinner = function(target)
 {
 		// spinner styling in elements
 	var spinner = '<div class="maxajax-load-spinner"></div>';
-	//$('.maxajax-load-spinner').remove();
 	$(target).after(spinner);
-	//return spinner;
 }
 
 maxAjax.prototype.removeSpinner = function()

@@ -10,10 +10,10 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
-use ScssPhp\ScssPhp\Formatter\OutputBlock;
-use ScssPhp\ScssPhp\SourceMap\SourceMapGenerator;
+use MaxButtons\ScssPhp\ScssPhp\Formatter\OutputBlock;
+use MaxButtons\ScssPhp\ScssPhp\SourceMap\SourceMapGenerator;
 
 /**
  * Base formatter

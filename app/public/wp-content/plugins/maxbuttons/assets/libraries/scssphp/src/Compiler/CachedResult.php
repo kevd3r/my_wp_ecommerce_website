@@ -10,9 +10,9 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp\Compiler;
+namespace MaxButtons\ScssPhp\ScssPhp\Compiler;
 
-use ScssPhp\ScssPhp\CompilationResult;
+use MaxButtons\ScssPhp\ScssPhp\CompilationResult;
 
 /**
  * @internal

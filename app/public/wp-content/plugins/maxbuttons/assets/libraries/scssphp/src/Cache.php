@@ -10,10 +10,10 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
-use Exception;
-use ScssPhp\ScssPhp\Version;
+use MaxButtons\Exception;
+use MaxButtons\ScssPhp\ScssPhp\Version;
 
 /**
  * The scss cache manager.

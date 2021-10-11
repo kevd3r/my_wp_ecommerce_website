@@ -10,7 +10,7 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp\Logger;
+namespace MaxButtons\ScssPhp\ScssPhp\Logger;
 
 /**
  * A logger that silently ignores all messages.

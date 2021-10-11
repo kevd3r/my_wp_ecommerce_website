@@ -104,7 +104,7 @@ jQuery(document).ready(function(jq) {
 		$(document).off('keydown', $.proxy(this.keyPressHandler, this));
 		$(document).on('keydown', $.proxy(this.keyPressHandler, this));
 
-		this.currentModal.focus();
+		this.currentModal.trigger('focus');
 	}
 
 	maxModal.prototype.keyPressHandler = function (e)

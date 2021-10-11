@@ -1,6 +1,6 @@
 <?php
 namespace MaxButtons;
-use ScssPhp\ScssPhp\Compiler;
+use MaxButtons\ScssPhp\ScssPhp\Compiler as Compiler;
 
 defined('ABSPATH') or die('No direct access permitted');
 
@@ -78,7 +78,6 @@ class maxCSSParser
 		}
 
 		$this->struct = $struct;
-
 
 	}
 
@@ -171,7 +170,7 @@ class maxCSSParser
 
 		if ($minify == 1)
 		{
-			$scss->setOutputStyle(\ScssPhp\ScssPhp\OutputStyle::COMPRESSED);
+				$scss->setOutputStyle(\MaxButtons\ScssPhp\ScssPhp\OutputStyle::COMPRESSED);
 		}
 
 		$compile = ' @import "_mixins.scss";' . $css;
@@ -179,7 +178,7 @@ class maxCSSParser
 		//maxUtils::addTime("CSSParser: Compile start ");
 		try
 		{
-			$css = $scss->compileString($compile)->getCss();
+				$css = $scss->compileString($compile)->getCss();
 		} catch (\Exception $e) {
 			$this->has_compile_error = true;
 			$this->compile_error = array('error' => $e,

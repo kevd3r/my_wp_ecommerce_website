@@ -10,9 +10,9 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp\SourceMap;
+namespace MaxButtons\ScssPhp\ScssPhp\SourceMap;
 
-use ScssPhp\ScssPhp\Exception\CompilerException;
+use MaxButtons\ScssPhp\ScssPhp\Exception\CompilerException;
 
 /**
  * Source Map Generator

@@ -82,13 +82,14 @@ body{
       width: auto;
       filter: invert(100%);
     }
-    .main-title{
-      color: white;
-      height: 2vh;
-      flex-wrap: nowrap;
-      margin-bottom: 0;
-    }
   }
+  .main-title{
+    color: white;
+    height: 2vh;
+    flex-wrap: nowrap;
+    margin-bottom: 0;
+    margin-left: 2vh;
+  }   
 }
 .storefront-primary-navigation{
   display: flex;
@@ -120,6 +121,8 @@ body{
     max-width: none;
   }
 }
+/*-------------- top frontpage's css ------------*/
+/*-------------- and postionning slider ---------*/
 #primary{
   display: flex;
   #main{
@@ -134,35 +137,87 @@ body{
     }
   }
 }
-#post-43{
-  display:flex;
-  width: 100%;
-    display:z block;
-    .entry-header{
-      width: 100%;
-      .entry-title{
-        width:60%;
-        text-align: start;
-        @include frontpage-text();
-      }
-    }
-    .entry-content{
-      display: inline;
-      margin-left: 0;
-        .wp-block-columns{
-          display:flex;
-          background-color: white;
-          width: 80%;
-            .wp-block-column{
-              margin-left: 5%;
-                div{
-                  display: flex;
-                    figure{
-                    max-width: 60px;
 
-                    }
+/*--------------homepage's css-----------------*/
+#post-43{
+  width: 100%;
+    .col-full{
+      display:block;
+      .main-title{
+        margin-left: 30%;
+        margin-top: 5vh;
+        margin-bottom: 7vh;
+        h2{/*main title changeable title by client*/
+        @include frontpage-text();
+        font-size: 7vh;
+        width: 40vh;
+        height: 25vh;
+        }
+      }
+      .shopBtn{/*shop button's css*/
+        margin-left: 30%;
+        margin-bottom: 5%;
+        display: flex;
+        #shopNow{
+          background-color: $base-color-yellow;
+          border-radius: 50% 50%;
+          color: white;
+          width: auto;
+        }
+        >p{
+          color: white;
+          @include frontpage-text();
+          margin-left: 2vh;
+          text-align: center;
+          margin-top: auto;
+          margin-bottom: auto;
+        }
+      }
+
+      #bottom-banner{/*bottom banner info frontpage maybe changeable by client*/
+        margin-right: 20%;
+        display: flex;
+        width: 80%;
+        background-color: white;
+        border-radius: 0px 50px 0px 0px ;
+        align-items: center;
+        height: 10vh;
+        >img{
+          margin-left: 5vh;
+          margin-right: 5vh;
+          width: 5vh;
+        }
+        >div>h2{
+          font-weight: bold;
+          font-size: 1.5vh;
+          margin-bottom: 0;
+        }
+        >div>p{
+          margin-bottom: 0;
+        }
+      }
+      .entry-header{/* Page's title non diplayed on the page*/
+        display: none;
+      }
+  }
+}
+
+.entry-content{
+  display: inline;
+  margin-left: 0;
+    .wp-block-columns{
+      display:flex;
+      background-color: white;
+      width: 80%;
+        .wp-block-column{
+          margin-left: 5%;
+            div{
+              display: flex;
+                figure{
+                max-width: 60px;
+
                 }
             }
         }
     }
-}
+  }

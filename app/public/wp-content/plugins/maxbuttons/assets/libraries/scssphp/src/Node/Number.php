@@ -10,15 +10,15 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp\Node;
+namespace MaxButtons\ScssPhp\ScssPhp\Node;
 
-use ScssPhp\ScssPhp\Base\Range;
-use ScssPhp\ScssPhp\Compiler;
-use ScssPhp\ScssPhp\Exception\RangeException;
-use ScssPhp\ScssPhp\Exception\SassScriptException;
-use ScssPhp\ScssPhp\Node;
-use ScssPhp\ScssPhp\Type;
-use ScssPhp\ScssPhp\Util;
+use MaxButtons\ScssPhp\ScssPhp\Base\Range;
+use MaxButtons\ScssPhp\ScssPhp\Compiler;
+use MaxButtons\ScssPhp\ScssPhp\Exception\RangeException;
+use MaxButtons\ScssPhp\ScssPhp\Exception\SassScriptException;
+use MaxButtons\ScssPhp\ScssPhp\Node;
+use MaxButtons\ScssPhp\ScssPhp\Type;
+use MaxButtons\ScssPhp\ScssPhp\Util;
 
 /**
  * Dimension + optional units

@@ -4,7 +4,7 @@ Tags: wordpress button plugin, share button, wordpress buttons, css3 button gene
 Requires at least: 4.8
 Tested up to: 5.8
 Requires PHP: 7.0
-Stable tag: 8.8
+Stable tag: 8.8.1
 WordPress button plugin so powerful and easy to use anyone can create beautiful buttons, share buttons and social icons.
 
 == Description ==
@@ -267,6 +267,10 @@ The plugin works with users of non-lating languages with a few exceptions. First
 Secondly, please use latin only characters for button name ( Basic settings) and extra classes ( Advanced settings ). Not doing so might prevent the styling output from working correctly.
 
 == Changelog ==
+
+= 8.8.1 =
+
+* Fix - Moved external libraries to own namespace to prevent conflicts.
 
 = 8.8 =
 

@@ -10,23 +10,23 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
-use ScssPhp\ScssPhp\Base\Range;
-use ScssPhp\ScssPhp\Compiler\CachedResult;
-use ScssPhp\ScssPhp\Compiler\Environment;
-use ScssPhp\ScssPhp\Exception\CompilerException;
-use ScssPhp\ScssPhp\Exception\ParserException;
-use ScssPhp\ScssPhp\Exception\SassException;
-use ScssPhp\ScssPhp\Exception\SassScriptException;
-use ScssPhp\ScssPhp\Formatter\Compressed;
-use ScssPhp\ScssPhp\Formatter\Expanded;
-use ScssPhp\ScssPhp\Formatter\OutputBlock;
-use ScssPhp\ScssPhp\Logger\LoggerInterface;
-use ScssPhp\ScssPhp\Logger\StreamLogger;
-use ScssPhp\ScssPhp\Node\Number;
-use ScssPhp\ScssPhp\SourceMap\SourceMapGenerator;
-use ScssPhp\ScssPhp\Util\Path;
+use MaxButtons\ScssPhp\ScssPhp\Base\Range;
+use MaxButtons\ScssPhp\ScssPhp\Compiler\CachedResult;
+use MaxButtons\ScssPhp\ScssPhp\Compiler\Environment;
+use MaxButtons\ScssPhp\ScssPhp\Exception\CompilerException;
+use MaxButtons\ScssPhp\ScssPhp\Exception\ParserException;
+use MaxButtons\ScssPhp\ScssPhp\Exception\SassException;
+use MaxButtons\ScssPhp\ScssPhp\Exception\SassScriptException;
+use MaxButtons\ScssPhp\ScssPhp\Formatter\Compressed;
+use MaxButtons\ScssPhp\ScssPhp\Formatter\Expanded;
+use MaxButtons\ScssPhp\ScssPhp\Formatter\OutputBlock;
+use MaxButtons\ScssPhp\ScssPhp\Logger\LoggerInterface;
+use MaxButtons\ScssPhp\ScssPhp\Logger\StreamLogger;
+use MaxButtons\ScssPhp\ScssPhp\Node\Number;
+use MaxButtons\ScssPhp\ScssPhp\SourceMap\SourceMapGenerator;
+use MaxButtons\ScssPhp\ScssPhp\Util\Path;
 
 /**
  * The scss compiler and parser.

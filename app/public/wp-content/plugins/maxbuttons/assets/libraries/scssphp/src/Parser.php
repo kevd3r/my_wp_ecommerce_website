@@ -10,11 +10,11 @@
  * @link http://scssphp.github.io/scssphp
  */
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
-use ScssPhp\ScssPhp\Exception\ParserException;
-use ScssPhp\ScssPhp\Logger\LoggerInterface;
-use ScssPhp\ScssPhp\Logger\QuietLogger;
+use MaxButtons\ScssPhp\ScssPhp\Exception\ParserException;
+use MaxButtons\ScssPhp\ScssPhp\Logger\LoggerInterface;
+use MaxButtons\ScssPhp\ScssPhp\Logger\QuietLogger;
 
 /**
  * Parser

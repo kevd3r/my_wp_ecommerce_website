@@ -1,4 +1,6 @@
 <?php
+namespace MaxButtons;
+
 /** https://simplehtmldom.sourceforge.io/docs/1.9/index.html
 
  * Website: http://sourceforge.net/projects/simplehtmldom/

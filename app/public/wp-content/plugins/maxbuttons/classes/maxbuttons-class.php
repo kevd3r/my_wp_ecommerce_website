@@ -433,7 +433,7 @@ class maxButtonsPlugin
 
 		 if ($libname == 'simplehtmldom')
 	 	 {
-				 if (! class_exists('simple_html_dom_node'))
+			//	 if (! class_exists('simple_html_dom_node'))
 					 require_once($this->get_plugin_path() . "assets/libraries/simplehtmldom/simple_html_dom.php");
 		 }
 

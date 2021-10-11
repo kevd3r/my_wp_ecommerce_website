@@ -5,7 +5,7 @@ defined('ABSPATH') or die('No direct access permitted');
 /* Datamodel and base functionality for a button
 */
 
-use \simple_html_dom as simple_html_dom;
+//use simple_html_dom as simple_html_dom;
 
 class maxButton
 {
@@ -665,7 +665,7 @@ class maxButton
 
 	}
 	/* Remove the button from database
-	* 
+	*
 	*/
 	public function delete(int $id)
 	{

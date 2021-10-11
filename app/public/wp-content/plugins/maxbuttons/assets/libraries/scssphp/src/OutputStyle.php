@@ -1,6 +1,6 @@
 <?php
 
-namespace ScssPhp\ScssPhp;
+namespace MaxButtons\ScssPhp\ScssPhp;
 
 final class OutputStyle
 {
