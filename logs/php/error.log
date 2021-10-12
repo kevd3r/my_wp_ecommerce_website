@@ -520,3 +520,83 @@ Stack trace:
 #3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
 #4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(25): do_action('storefront_home...')
 #5 C:\Users\KDerot\Local Sites\estore\app\public\w in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\plugins\advanced-custom-fields\includes\local-fields.php on line 151
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  Use of undefined constant storefront - assumed 'storefront' (this will throw an Error in a future version of PHP) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  Use of undefined constant handled - assumed 'handled' (this will throw an Error in a future version of PHP) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  Use of undefined constant footer - assumed 'footer' (this will throw an Error in a future version of PHP) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  Use of undefined constant bar - assumed 'bar' (this will throw an Error in a future version of PHP) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[12-Oct-2021 14:17:07 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 52
+[12-Oct-2021 14:17:07 UTC] PHP Stack trace:
+[12-Oct-2021 14:17:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[12-Oct-2021 14:17:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[12-Oct-2021 14:17:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[12-Oct-2021 14:17:07 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[12-Oct-2021 14:17:07 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770

@@ -48,7 +48,9 @@
 		 */
 		do_action( 'storefront_header' );
 		?>
-
+	<div class="search_and_register">
+		
+	</div>
 		
 	</header><!-- #masthead -->
 
@@ -64,7 +66,8 @@
 
 	<div id="content" class="site-content" tabindex="-1">
 		<div class="col-full">
-		
+		<div>
+	</div>
 		<?php
 		do_action( 'storefront_content_top' );?>
 		

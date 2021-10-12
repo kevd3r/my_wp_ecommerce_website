@@ -71,10 +71,10 @@ body{
   }
 }
 .site-branding{
+  display: flex;
   width: auto;
   margin: 0;
   align-items: center;
-  display: flex;
   .custom-logo-link{
     display: flex;
     width: 100%;
@@ -157,7 +157,7 @@ body{
       }
       .shopBtn{/*shop button's css*/
         margin-left: 30%;
-        margin-bottom: 7%;
+        margin-bottom: 5%;
         display: flex;
         #shopNow{
           background-color: $base-color-yellow;

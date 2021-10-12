@@ -60,10 +60,10 @@ body {
 }
 
 .site-branding {
+  display: flex;
   width: auto;
   margin: 0;
   align-items: center;
-  display: flex;
 }
 .site-branding .custom-logo-link {
   display: flex;
@@ -156,7 +156,7 @@ body {
 #post-43 .col-full .shopBtn {
   /*shop button's css*/
   margin-left: 30%;
-  margin-bottom: 7%;
+  margin-bottom: 5%;
   display: flex;
 }
 #post-43 .col-full .shopBtn #shopNow {
