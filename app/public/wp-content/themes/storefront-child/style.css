@@ -156,7 +156,7 @@ body {
 #post-43 .col-full .shopBtn {
   /*shop button's css*/
   margin-left: 30%;
-  margin-bottom: 5%;
+  margin-bottom: 7%;
   display: flex;
 }
 #post-43 .col-full .shopBtn #shopNow {
@@ -223,8 +223,14 @@ body {
 .entry-content .wp-block-column > div > img {
   max-height: 436px;
 }
+.entry-content .has-normal-font-size {
+  text-align: start;
+}
+.entry-content .has-small-font-size {
+  text-align: start;
+}
 
-/*---- css fro titles inside images -------*/
+/*---- titles'css inside images -------*/
 .wp-block-cover__inner-container {
   display: block;
   padding: 0;
@@ -236,4 +242,27 @@ body {
 }
 .wp-block-cover__inner-container > div {
   width: fit-content;
+}
+
+#mailpoet_form_1 {
+  height: 30vh;
+}
+#mailpoet_form_1 form {
+  display: flex;
+  height: 100%;
+}
+#mailpoet_form_1 form > p {
+  width: 50%;
+  text-align: left;
+  margin-left: 5vw;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#mailpoet_form_1 form .mailpoet_paragraph {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 25%;
+}
+#mailpoet_form_1 form .mailpoet-paragraph.last {
+  margin-bottom: auto;
 }

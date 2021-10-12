@@ -37,6 +37,7 @@ $media-large-screen:"@media screen and (min-width : 768px)";
   font-weight: bold;
 }
 
+
 *{
   font-family:$font-stack;
 }
@@ -156,7 +157,7 @@ body{
       }
       .shopBtn{/*shop button's css*/
         margin-left: 30%;
-        margin-bottom: 5%;
+        margin-bottom: 7%;
         display: flex;
         #shopNow{
           background-color: $base-color-yellow;
@@ -220,8 +221,15 @@ body{
       max-height: 436px;
     }
   }
-}
-/*---- css fro titles inside images -------*/
+  .has-normal-font-size{
+    text-align: start;
+  }
+  .has-small-font-size{
+    text-align:start;
+  }
+ }
+
+/*---- titles'css inside images -------*/
 .wp-block-cover__inner-container{
   display: block;
   padding: 0;
@@ -232,5 +240,27 @@ body{
   }
   >div{
     width: fit-content;
+  }
+}
+#mailpoet_form_1{
+  height: 30vh;
+  form{
+    display: flex;
+    height: 100%;
+    >p{
+      width: 50%;
+      text-align: left;
+      margin-left: 5vw;
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+    .mailpoet_paragraph{
+      margin-top: auto;
+      margin-bottom: auto;
+      width: 25%;
+    }
+    .mailpoet-paragraph.last{
+      margin-bottom: auto;
+    }
   }
 }
