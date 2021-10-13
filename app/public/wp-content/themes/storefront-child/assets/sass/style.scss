@@ -32,11 +32,23 @@ $base-color-grey:#CECECE;
 $font-stack: 'Poppins',sans-serif;
 $media-small-screen:"@media screen and (max-width:468px)";
 $media-large-screen:"@media screen and (min-width : 768px)";
+$media-laptop:"@media screen and (min-width : 1024px)";
 @mixin frontpage-text(){
   color: white;
   font-weight: bold;
 }
-
+@mixin log-in-input(){
+  font-size: 2vh;
+  border: 1px solid lightgray;
+  border-radius: 40px;
+  text-align: center;
+  width: 70%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-bottom: 2vh;
+}
 
 *{
   font-family:$font-stack;
@@ -69,6 +81,7 @@ body{
       display: none;
     } 
   }
+  
 }
 .site-branding{
   display: flex;
@@ -109,6 +122,55 @@ body{
     }
   }
 }
+/*--------- modal's registration's css -----------*/
+#user_connect{/*connect user's btn*/
+  margin-right: 3vh;
+  background-color: transparent;
+  .bi.bi-person{
+    color: white;
+    width: 4vh;
+    height: 4vh;
+  }
+  .bi.bi-person:hover{
+    transform: scale(1.2);
+  }
+}
+#modal-content{
+  display: block;
+  height: 50vh;
+  background-color: white;
+  position: fixed;
+  left: 37.5%;
+  top: 15%;
+  width: 25%;
+  border-radius: 40px;
+  .modal-header{
+    text-align: end;
+    padding: 2vh;
+    .close{
+      font-size: 3vh;
+      padding-right: 2vh;
+    }
+    h2{
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+  .modal-body{
+    #firstName{
+      @include log-in-input();
+    }
+    #lastName{
+      @include log-in-input();
+    }
+    #email{
+      @include log-in-input();
+    }
+  }
+}
+
 /*------------------ frontpage's css ------------ */
 #content{
   display: flex;
@@ -157,7 +219,7 @@ body{
       }
       .shopBtn{/*shop button's css*/
         margin-left: 30%;
-        margin-bottom: 5%;
+        margin-bottom: 8%;
         display: flex;
         #shopNow{
           background-color: $base-color-yellow;
@@ -167,6 +229,7 @@ body{
           height: 4vh;
           content: \002794;
           justify-content: center;
+          display: flex;
         }
         >p{
           color: white;
@@ -264,3 +327,58 @@ body{
     }
   }
 }
+/*---------------- Footer's css ------------*/
+#colophon{
+  padding-right: 5%;
+  padding-left: 5%;
+  >.col-full{
+    max-width:100%;
+    padding: 0;
+    >div{
+      width : 100%;
+      .block.footer-widget-1{
+        width:35%;
+        padding-right:5%;
+        #block-34{
+          >figure{
+            display: flex;
+            .wp-image-95{
+              width: 5vh;
+              height: 5vh;
+              margin-right: 5vh;
+            }
+            >figcaption{
+              font-size: 3vh;
+            }
+          }
+        }
+      }
+      .block.footer-widget-2{
+        width: 15%;
+      }
+      .block.footer-widget-3{
+        width: 15%;
+      }
+      .block.footer-widget-4{
+        width: 15%;
+        margin-right: 6%;
+      }
+    }
+  }
+}
+#block-32{
+  >ul>li:nth-child(2){
+    margin-top: 2vh;
+  }
+}
+#block-33{
+  >ul>li:nth-child(2){
+    margin-top: 2vh;
+  }
+}
+#block-37{
+  >ul>li:nth-child(2){
+    margin-top: 2vh;
+  }
+}
+

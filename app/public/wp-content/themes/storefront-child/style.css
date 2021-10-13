@@ -102,6 +102,82 @@ body {
   font-weight: bold;
 }
 
+/*--------- modal's registration's css -----------*/
+#user_connect {
+  /*connect user's btn*/
+  margin-right: 3vh;
+  background-color: transparent;
+}
+#user_connect .bi.bi-person {
+  color: white;
+  width: 4vh;
+  height: 4vh;
+}
+#user_connect .bi.bi-person:hover {
+  transform: scale(1.2);
+}
+
+#modal-content {
+  display: block;
+  height: 50vh;
+  background-color: white;
+  position: fixed;
+  left: 37.5%;
+  top: 15%;
+  width: 25%;
+  border-radius: 40px;
+}
+#modal-content .modal-header {
+  text-align: end;
+  padding: 2vh;
+}
+#modal-content .modal-header .close {
+  font-size: 3vh;
+  padding-right: 2vh;
+}
+#modal-content .modal-header h2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: bold;
+}
+#modal-content .modal-body #firstName {
+  font-size: 2vh;
+  border: 1px solid lightgray;
+  border-radius: 40px;
+  text-align: center;
+  width: 70%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-bottom: 2vh;
+}
+#modal-content .modal-body #lastName {
+  font-size: 2vh;
+  border: 1px solid lightgray;
+  border-radius: 40px;
+  text-align: center;
+  width: 70%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-bottom: 2vh;
+}
+#modal-content .modal-body #email {
+  font-size: 2vh;
+  border: 1px solid lightgray;
+  border-radius: 40px;
+  text-align: center;
+  width: 70%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-bottom: 2vh;
+}
+
 /*------------------ frontpage's css ------------ */
 #content {
   display: flex;
@@ -156,7 +232,7 @@ body {
 #post-43 .col-full .shopBtn {
   /*shop button's css*/
   margin-left: 30%;
-  margin-bottom: 5%;
+  margin-bottom: 8%;
   display: flex;
 }
 #post-43 .col-full .shopBtn #shopNow {
@@ -167,6 +243,7 @@ body {
   height: 4vh;
   content: ➔;
   justify-content: center;
+  display: flex;
 }
 #post-43 .col-full .shopBtn > p {
   color: white;
@@ -265,4 +342,54 @@ body {
 }
 #mailpoet_form_1 form .mailpoet-paragraph.last {
   margin-bottom: auto;
+}
+
+/*---------------- Footer's css ------------*/
+#colophon {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+#colophon > .col-full {
+  max-width: 100%;
+  padding: 0;
+}
+#colophon > .col-full > div {
+  width: 100%;
+}
+#colophon > .col-full > div .block.footer-widget-1 {
+  width: 35%;
+  padding-right: 5%;
+}
+#colophon > .col-full > div .block.footer-widget-1 #block-34 > figure {
+  display: flex;
+}
+#colophon > .col-full > div .block.footer-widget-1 #block-34 > figure .wp-image-95 {
+  width: 5vh;
+  height: 5vh;
+  margin-right: 5vh;
+}
+#colophon > .col-full > div .block.footer-widget-1 #block-34 > figure > figcaption {
+  font-size: 3vh;
+}
+#colophon > .col-full > div .block.footer-widget-2 {
+  width: 15%;
+}
+#colophon > .col-full > div .block.footer-widget-3 {
+  width: 15%;
+}
+#colophon > .col-full > div .block.footer-widget-4 {
+  width: 15%;
+  margin-right: 6%;
+}
+
+#block-32 > ul > li:nth-child(2) {
+  margin-top: 2vh;
+}
+
+#block-33 > ul > li:nth-child(2) {
+  margin-top: 2vh;
+}
+
+#block-37 > ul > li:nth-child(2) {
+  margin-top: 2vh;
 }

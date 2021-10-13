@@ -104,47 +104,8 @@ function storefront_page_content() {
   <?php
 }
 
-function rhinos_menu_search_and_register() {
-  $links = array(
-    'my-account' => array(
-      'priority' => 10,
-      'callback' => 'storefront_handheld_footer_bar_account_link',
-    ),
-    'search'     => array(
-      'priority' => 20,
-      'callback' => 'storefront_handheld_footer_bar_search',
-    ),
-    'cart'       => array(
-      'priority' => 30,
-      'callback' => 'storefront_handheld_footer_bar_cart_link',
-    ),
-  );
-  if ( did_action( 'woocommerce_blocks_enqueue_cart_block_scripts_after' ) || did_action( 'woocommerce_blocks_enqueue_checkout_block_scripts_after' ) ) {
-    return;
-  }
-
-  if ( wc_get_page_id( 'myaccount' ) === -1 ) {
-    unset( $links['my-account'] );
-  }
-
-  if ( wc_get_page_id( 'cart' ) === -1 ) {
-    unset( $links['cart'] );
-  }
-
-  $links = apply_filters( 'storefront_handheld_footer_bar_links', $links );
-  ?>
-  <div class="storefront-handheld-footer-bar">
-    <ul class="columns-<?php echo count( $links ); ?>">
-      <?php foreach ( $links as $key => $link ) : ?>
-        <li class="<?php echo esc_attr( $key ); ?>">
-          <?php
-          if ( $link['callback'] ) {
-            call_user_func( $link['callback'], $key, $link );
-          }
-          ?>
-        </li>
-      <?php endforeach; ?>
-    </ul>
-  </div>
-  <?php
+/* fonction ajouter script externe */
+add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
+function enqueue_Rhinos_modal() {
+    wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
 }

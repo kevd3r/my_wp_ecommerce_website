@@ -27,7 +27,7 @@ add_action( 'storefront_header', 'storefront_skip_links', 5 );
 add_action( 'storefront_header', 'storefront_site_branding', 20 );
 add_action( 'storefront_header', 'storefront_secondary_navigation', 30 );
 add_action( 'storefront_header', 'storefront_header_container_close', 41 );
-
+add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
 
 /**
  * Footer
