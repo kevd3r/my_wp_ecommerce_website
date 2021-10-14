@@ -600,3 +600,4 @@ Stack trace:
 [12-Oct-2021 14:17:07 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
 [12-Oct-2021 14:17:07 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
 [12-Oct-2021 14:17:07 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[14-Oct-2021 07:54:08 UTC] Erreur de la base de données WordPress : Table 'local.wp_social_users' doesn't exist pour la requête ALTER TABLE wp_social_users ADD `social_users_id` int NOT NULL AUTO_INCREMENT PRIMARY KEY; faite par activate_plugin, do_action('activate_nextend-facebook-connect/nextend-facebook-connect.php'), WP_Hook->do_action, WP_Hook->apply_filters, NextendSocialLogin::install

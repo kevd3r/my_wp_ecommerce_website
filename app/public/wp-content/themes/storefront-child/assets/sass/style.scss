@@ -42,14 +42,18 @@ $media-laptop:"@media screen and (min-width : 1024px)";
   border: 1px solid lightgray;
   border-radius: 40px;
   text-align: center;
-  width: 70%;
+  width: 80%;
   display: flex;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
   margin-bottom: 2vh;
+  height: 6vh;
+  color: black;
 }
-
+@mixin log-in-input-hover(){
+  border: 3px solid lightgray;
+}
 *{
   font-family:$font-stack;
 }
@@ -136,8 +140,8 @@ body{
   }
 }
 #modal-content{
-  display: block;
-  height: 50vh;
+  display: none;
+  height: auto;
   background-color: white;
   position: fixed;
   left: 37.5%;
@@ -150,6 +154,11 @@ body{
     .close{
       font-size: 3vh;
       padding-right: 2vh;
+      background-color: white;
+      padding-bottom: 0;
+    }
+    .close:hover{
+      transform : scale(1.2);
     }
     h2{
       margin-left: auto;
@@ -168,8 +177,44 @@ body{
     #email{
       @include log-in-input();
     }
+    #pwd{
+      @include log-in-input();
+    }
+    #subBtn{
+      @include log-in-input();
+      background-color: $base-color-yellow;
+      border: none;
+      >p{
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+    #not_member_yet{
+      >p{
+        color:black;
+        text-align: center;
+      }
+    }
+    #firstName:hover{
+      @include log-in-input-hover();
+    }
+    #lastName:hover{
+      @include log-in-input-hover();
+    }
+    #email:hover{
+      @include log-in-input-hover();
+    }
+    #pwd{
+      @include log-in-input-hover();
+    }
+    #not_member_yet:hover{
+      >p{
+      transform: scale(1.1);
+      }
+    }
   }
 }
+
 
 /*------------------ frontpage's css ------------ */
 #content{
