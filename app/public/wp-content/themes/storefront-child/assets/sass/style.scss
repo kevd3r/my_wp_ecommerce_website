@@ -139,6 +139,7 @@ body{
     transform: scale(1.2);
   }
 }
+
 #modal-content{
   display: none;
   height: auto;
@@ -148,6 +149,7 @@ body{
   top: 15%;
   width: 25%;
   border-radius: 40px;
+
   .modal-header{
     text-align: end;
     padding: 2vh;
@@ -180,6 +182,12 @@ body{
     #pwd{
       @include log-in-input();
     }
+    #pwd_frgt{
+      >p{
+        color: black;
+        text-align: center;
+      }
+    }
     #subBtn{
       @include log-in-input();
       background-color: $base-color-yellow;
@@ -210,6 +218,11 @@ body{
     #not_member_yet:hover{
       >p{
       transform: scale(1.1);
+      }
+    }
+    #pwd_frgt:hover{
+      >p{
+        transform: scale(1.1);
       }
     }
   }

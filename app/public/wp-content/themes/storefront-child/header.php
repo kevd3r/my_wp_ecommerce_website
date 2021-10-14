@@ -56,20 +56,20 @@
 			</svg></button></a>
 		</div>
 <!-- Modal content -->
-		<div class="modal-content" id="modal-content">
+		<div class="modal-content" id="modal-content" tabindex="-1">
  		 	<div class="modal-header">
     		<button class="close">&times;</button>
     		<h2>Log In</h2>
   		</div>
-  		<div class="modal-body">
+  		<form method="post" action="users.php" class="modal-body">
     		<input name="firstName" id="firstName" type="text" placeholder="First Name" required></input>
     		<input name="lastName" id="lastName" type="text" placeholder="Last Name" required></input>
     		<input name="email" id="email" type="email" placeholder="Email" required></input>
-				<input type="password" id="pwd"name="password" placeholder="Password"required></input>
+				<input type="password" id="pwd" name="password" placeholder="Password"required></input>
 				<a href="#" id="pwd_frgt"><p>Forgot password ?</p></a>
     		<button type="submit" id="subBtn"><p>Submit</p></button>
 				<a href="#" id="not_member_yet"><p>Not a member yet ?</p></a>
-  		</div>
+			</form>
 		</div>
 	</header><!-- #masthead -->
 
@@ -84,11 +84,9 @@
 	?>
 	
 
-
 	<div id="content" class="site-content" tabindex="-1">
 		<div class="col-full">
 		<div>
 	</div>
 		<?php
 		do_action( 'storefront_content_top' );?>
-		

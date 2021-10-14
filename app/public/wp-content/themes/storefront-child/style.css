@@ -202,6 +202,10 @@ body {
   height: 6vh;
   color: black;
 }
+#modal-content .modal-body #pwd_frgt > p {
+  color: black;
+  text-align: center;
+}
 #modal-content .modal-body #subBtn {
   font-size: 2vh;
   border: 1px solid lightgray;
@@ -239,6 +243,9 @@ body {
   border: 3px solid lightgray;
 }
 #modal-content .modal-body #not_member_yet:hover > p {
+  transform: scale(1.1);
+}
+#modal-content .modal-body #pwd_frgt:hover > p {
   transform: scale(1.1);
 }
 
