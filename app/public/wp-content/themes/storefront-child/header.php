@@ -50,24 +50,24 @@
 	
 		?>
 
-		<div class="user_connect">
+		<div class="user_connect"data-toggle="modal" data-target="#modal-content">
 			<a href="#"><button id="user_connect"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
   		<path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
 			</svg></button></a>
 		</div>
 <!-- Modal content -->
-		<div class="modal-content" id="modal-content" tabindex="-1">
+		<div class="modal-content" id="modal-content" role="dialog" tabindex="-1">
  		 	<div class="modal-header">
     		<button class="close">&times;</button>
     		<h2>Log In</h2>
   		</div>
-  		<form method="post" action="users.php" class="modal-body">
-    		<input name="firstName" id="firstName" type="text" placeholder="First Name" required></input>
-    		<input name="lastName" id="lastName" type="text" placeholder="Last Name" required></input>
-    		<input name="email" id="email" type="email" placeholder="Email" required></input>
-				<input type="password" id="pwd" name="password" placeholder="Password"required></input>
+  		<form method="POST" action="Add Existing User" class="modal-body">
+    		<input name="firstName" id="firstName" type="text" placeholder="First Name" required/>
+    		<input name="lastName" id="lastName" type="text" placeholder="Last Name" required/>
+    		<input name="email" id="email" type="email" placeholder="Email" required/>
+				<input type="password" id="pwd" name="password" placeholder="Password"required/>
 				<a href="#" id="pwd_frgt"><p>Forgot password ?</p></a>
-    		<button type="submit" id="subBtn"><p>Submit</p></button>
+    		<button type="submit" id="subBtn"name="submit"><p>Submit</p></button>
 				<a href="#" id="not_member_yet"><p>Not a member yet ?</p></a>
 			</form>
 		</div>

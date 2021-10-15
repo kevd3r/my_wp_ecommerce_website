@@ -212,7 +212,7 @@ body{
     #email:hover{
       @include log-in-input-hover();
     }
-    #pwd{
+    #pwd:hover{
       @include log-in-input-hover();
     }
     #not_member_yet:hover{
@@ -277,7 +277,7 @@ body{
       }
       .shopBtn{/*shop button's css*/
         margin-left: 30%;
-        margin-bottom: 8%;
+        margin-bottom: 10%;
         display: flex;
         #shopNow{
           background-color: $base-color-yellow;

@@ -239,7 +239,7 @@ body {
 #modal-content .modal-body #email:hover {
   border: 3px solid lightgray;
 }
-#modal-content .modal-body #pwd {
+#modal-content .modal-body #pwd:hover {
   border: 3px solid lightgray;
 }
 #modal-content .modal-body #not_member_yet:hover > p {
@@ -303,7 +303,7 @@ body {
 #post-43 .col-full .shopBtn {
   /*shop button's css*/
   margin-left: 30%;
-  margin-bottom: 8%;
+  margin-bottom: 10%;
   display: flex;
 }
 #post-43 .col-full .shopBtn #shopNow {

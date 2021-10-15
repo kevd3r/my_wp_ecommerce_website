@@ -108,4 +108,4 @@ function storefront_page_content() {
 add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
 function enqueue_Rhinos_modal() {
     wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
-}
+}/*---- add form modal on frontpage-------*/
