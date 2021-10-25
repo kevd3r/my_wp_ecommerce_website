@@ -61,15 +61,10 @@
     		<button class="close">&times;</button>
     		<h2>Log In</h2>
   		</div>
-  		<form method="POST" action="Add Existing User" class="modal-body">
-    		<input name="firstName" id="firstName" type="text" placeholder="First Name" required/>
-    		<input name="lastName" id="lastName" type="text" placeholder="Last Name" required/>
-    		<input name="email" id="email" type="email" placeholder="Email" required/>
-				<input type="password" id="pwd" name="password" placeholder="Password"required/>
-				<a href="#" id="pwd_frgt"><p>Forgot password ?</p></a>
-    		<button type="submit" id="subBtn"name="submit"><p>Submit</p></button>
-				<a href="#" id="not_member_yet"><p>Not a member yet ?</p></a>
-			</form>
+ 
+    		<?php user_login();?>
+				<a href="estore.local/" id="not_member_yet"><p>Not a member yet ?</p></a>
+		
 		</div>
 	</header><!-- #masthead -->
 

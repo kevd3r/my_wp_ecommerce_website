@@ -22,7 +22,10 @@ function sf_child_theme_dequeue_style() {
 /**
  * Note: DO NOT! alter or remove the code above this text and only add your custom PHP functions below this text.
  */
-
+add_action('wp_enqueue_scripts', 'theme_enqueue_styles');
+function theme_enqueue_styles(){
+  wp_enqueue_style('parent_style',get_template_directory_uri().'style.css');
+}
 
 
  /**
@@ -108,4 +111,27 @@ function storefront_page_content() {
 add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
 function enqueue_Rhinos_modal() {
     wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
-}/*---- add form modal on frontpage-------*/
+}
+
+
+/**--- shortcode for header's modal ------ */
+function user_login(){
+  echo do_shortcode('[user_registration_form id="402"]');
+}
+?>
+
+<?php
+function user_datas(){
+  try{
+    $pdo=new PDO(
+      'mysql:host=localhost;dbname=local',
+      'estore_admin',
+      'MYOwnPrivate56!!'
+    )
+    foreach ($pdo->query('SELECT user_login FROM wp_users',PDO::FETCH_ASSOC)as $user){
+      echo $user['user_login'];
+    }
+  } catch (PDOException $e){
+    echo 'Impossible de récupérer les datas';
+  }
+}

@@ -77,18 +77,18 @@ body{
   width: 100%;
   background: transparent;
   .col-full{
+    display:flex;
     margin-left: 0;
     margin-right: 0;
     margin-top: auto;
     margin-bottom: auto;
     .site-search{
       display: none;
-    } 
+    }
   }
-  
 }
 .site-branding{
-  display: flex;
+  display: flex !important;
   width: auto;
   margin: 0;
   align-items: center;

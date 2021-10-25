@@ -70,6 +70,7 @@ $featured_image = get_the_post_thumbnail_url( get_the_ID(), 'thumbnail' );
 		 * @hooked storefront_page_content         - 20
 		 */
 		do_action( 'storefront_homepage' );
+		user_datas();
 		?>
 	</div>
 </div><!-- #post-## -->

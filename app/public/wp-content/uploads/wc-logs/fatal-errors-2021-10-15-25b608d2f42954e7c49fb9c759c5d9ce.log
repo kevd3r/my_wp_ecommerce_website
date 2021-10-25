@@ -60,3 +60,5 @@
 
 2021-10-15T12:00:38+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 115
 
+2021-10-15T15:00:12+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 74
+
