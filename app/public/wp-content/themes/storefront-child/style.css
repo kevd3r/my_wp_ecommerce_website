@@ -23,8 +23,13 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
+/*------------ functions variables & mixins --------------------------------*/
 /*font-family: 'Poppins', sans-serif;*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+/*-----------------Variables -----------------------------------------------*/
+/*---- breakpoints' mapping-----------------*/
+/*----------------Mixins --------------------------------------------------*/
+/*------------------- scss ---------------------------*/
 * {
   font-family: "Poppins", sans-serif;
 }
@@ -41,12 +46,12 @@ body {
 }
 
 #masthead {
+  display: flex;
+  width: 100%;
   padding-top: 3vh;
   margin-bottom: 0;
-  display: flex;
   align-items: center;
   border-bottom: none;
-  width: 100%;
   background: transparent;
 }
 #masthead .col-full {
@@ -59,10 +64,22 @@ body {
 #masthead .col-full .site-search {
   display: none;
 }
+#masthead #site-navigation {
+  margin-left: auto;
+}
+#masthead #site-navigation .menu-toggle {
+  border: none;
+}
+@media screen and (max-width: 768px) {
+  #masthead #site-navigation .menu-toggle {
+    background: transparent;
+    filter: invert(1);
+  }
+}
 
 .site-branding {
-  display: flex !important;
-  width: auto;
+  display: flex;
+  width: 100%;
   margin: 0;
   align-items: center;
 }
@@ -75,6 +92,12 @@ body {
   width: auto;
   filter: invert(100%);
 }
+@media screen and (max-width: 768px) {
+  .site-branding .custom-logo-link .custom-logo {
+    width: 5vh;
+    height: 5vh;
+  }
+}
 .site-branding .main-title {
   color: white;
   height: 2vh;
@@ -82,12 +105,20 @@ body {
   margin-bottom: 0;
   margin-left: 2vh;
 }
+@media screen and (max-width: 768px) {
+  .site-branding .main-title {
+    font-size: 1em;
+  }
+}
 
 .storefront-primary-navigation {
   display: flex;
+  width: 100%;
   justify-content: center;
   color: white;
   font-weight: bold;
+}
+.storefront-primary-navigation > .col-full {
   width: 100%;
 }
 
@@ -282,16 +313,33 @@ body {
 }
 
 /*--------------homepage's css-----------------*/
+@media screen and (max-width: 480px) {
+  #n2-ss-3 {
+    display: none;
+  }
+}
+
 #post-43 {
   width: 100%;
+}
+@media screen and (max-width: 768px) {
+  #post-43 {
+    padding-top: 0;
+  }
 }
 #post-43 .col-full {
   display: block;
 }
 #post-43 .col-full .main-title {
   margin-left: 30%;
+  margin-right: auto;
   margin-top: 5vh;
   margin-bottom: 7vh;
+}
+@media screen and (max-width: 480px) {
+  #post-43 .col-full .main-title {
+    background-image: url(../img/mobile_frontpage_image_sm.png);
+  }
 }
 #post-43 .col-full .main-title h2 {
   /*main title changeable title by client*/
@@ -301,11 +349,26 @@ body {
   width: 40vh;
   height: 25vh;
 }
+@media screen and (max-width: 768px) {
+  #post-43 .col-full .main-title h2 {
+    font-size: 1.2em;
+  }
+}
 #post-43 .col-full .shopBtn {
   /*shop button's css*/
   margin-left: 30%;
   margin-bottom: 10%;
   display: flex;
+}
+@media screen and (max-width: 480px) {
+  #post-43 .col-full .shopBtn {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  #post-43 .col-full .shopBtn {
+    display: none;
+  }
 }
 #post-43 .col-full .shopBtn #shopNow {
   background-color: #FBB03B;
@@ -322,9 +385,10 @@ body {
   color: white;
   font-weight: bold;
   margin-left: 2vh;
-  text-align: center;
+  margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
+  text-align: center;
 }
 #post-43 .col-full #bottom-banner {
   /*bottom banner info frontpage maybe changeable by client*/
@@ -335,6 +399,11 @@ body {
   border-radius: 0px 50px 0px 0px;
   align-items: center;
   height: 10vh;
+}
+@media screen and (max-width: 768px) {
+  #post-43 .col-full #bottom-banner {
+    display: none;
+  }
 }
 #post-43 .col-full #bottom-banner > img {
   margin-left: 5vh;
@@ -353,6 +422,9 @@ body {
   /* Page's title non diplayed on the page*/
   display: none;
 }
+#post-43 .col-full > .entry-content {
+  padding-top: 5vh;
+}
 
 /*--------- first 3 images: special offers changeable by client*/
 .entry-content {
@@ -361,10 +433,16 @@ body {
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
+  margin-bottom: -bottom;
 }
 .entry-content .wp-block-column {
   /*resizing images' boxes*/
   max-height: 436px;
+}
+@media screen and (max-width: 768px) {
+  .entry-content .wp-block-column {
+    flex-wrap: nowrap;
+  }
 }
 .entry-content .wp-block-column > div {
   max-height: 436px;
@@ -404,6 +482,7 @@ body {
   width: 50%;
   text-align: left;
   margin-left: 5vw;
+  margin-right: -right;
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -452,6 +531,16 @@ body {
 #colophon > .col-full > div .block.footer-widget-4 {
   width: 15%;
   margin-right: 6%;
+}
+@media screen and (max-width: 480px) {
+  #colophon > .col-full .storefront-handheld-footer-bar {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  #colophon > .col-full .storefront-handheld-footer-bar {
+    display: none;
+  }
 }
 
 #block-32 > ul > li:nth-child(2) {

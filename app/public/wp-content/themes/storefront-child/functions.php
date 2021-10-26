@@ -116,6 +116,7 @@ function enqueue_Rhinos_modal() {
 
 /**--- shortcode for header's modal ------ */
 function user_login(){
+  
   echo do_shortcode('[user_registration_form id="402"]');
 }
 ?>
@@ -125,9 +126,9 @@ function user_datas(){
   try{
     $pdo=new PDO(
       'mysql:host=localhost;dbname=local',
-      'estore_admin',
-      'MYOwnPrivate56!!'
-    )
+      'root',
+      'root'
+    );
     foreach ($pdo->query('SELECT user_login FROM wp_users',PDO::FETCH_ASSOC)as $user){
       echo $user['user_login'];
     }
@@ -135,3 +136,4 @@ function user_datas(){
     echo 'Impossible de récupérer les datas';
   }
 }
+?>

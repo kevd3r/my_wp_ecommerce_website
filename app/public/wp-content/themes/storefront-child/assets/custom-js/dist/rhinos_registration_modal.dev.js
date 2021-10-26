@@ -1,7 +1,6 @@
 "use strict";
 
 jQuery(document).ready(function ($) {
-  console.log('heyyyyyy!!!!');
   var modal = document.getElementById('modal-content');
   var btn = document.getElementById('user_connect');
   var close = document.getElementsByClassName('close')[0];
@@ -11,6 +10,7 @@ jQuery(document).ready(function ($) {
   var pwd_frgt = document.getElementById('pwd_frgt');
   var pwd = document.getElementById('pwd');
   var page = document.getElementById('page');
+  var subBtn = document.getElementById('subBtn');
   btn.addEventListener('click', function () {
     modal.style.display = "block";
     firstName.style.display = 'none';
@@ -19,6 +19,7 @@ jQuery(document).ready(function ($) {
     pwd_frgt.style.display = 'block';
     notMember.style.display = 'block';
     pwd.style.display = 'block';
+    $('#subBtn p').text('Submit');
   });
   notMember.addEventListener('click', function () {
     firstName.style.display = 'flex';
@@ -27,6 +28,7 @@ jQuery(document).ready(function ($) {
     $('.modal-header h2').text("let's create your account and discover the benefits");
     pwd_frgt.style.display = 'none';
     pwd.style.display = 'block';
+    $('#subBtn p').text('Submit');
   });
   close.addEventListener('click', function () {
     modal.style.display = "none";
@@ -40,5 +42,6 @@ jQuery(document).ready(function ($) {
     lastName.style.display = 'none';
     pwd_frgt.style.display = 'none';
     pwd.style.display = 'none';
+    $('#subBtn p').text('Resend email');
   });
 });

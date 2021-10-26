@@ -4,7 +4,7 @@ Tags: slider, wordpress slider, image slider, layer slider, responsive slider, s
 Donate link: https://sites.fastspring.com/nextend/product/smartslider3donate
 Requires at least: 4.9
 Tested up to: 5.8.1
-Stable tag: 3.5.1.0
+Stable tag: 3.5.1.1
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -41,7 +41,7 @@ No tech skills needed, just pick a slider template. It works like magic! Choose 
 * **Absolute position** - Drag and drop your layers anywhere on the slide with absolute layers.
 * **Slide library** - [Slide Library](https://smartslider3.com/slide-library/) provides several pre-made slides to kickstart your work.
 * **Totally integrated with WordPress** - Media manager, shortcode, widget, post permalinks, post editor.
-* **Page Builder support** - Elementor, Divi, Beaver Builder, Page Builder by SiteOrigin, Visual Composer, Gutenberg and more...
+* **Page Builder support** - Elementor, Divi, Beaver Builder, Page Builder by SiteOrigin, Visual Composer, WPBakery Page Builder, Gutenberg and more...
 * **Totally responsive and touch friendly** - Sliders can be enjoyed on any device, be it a mobile, tablet or desktop.
 * **Dynamic Slides** - Available source: WordPress posts
 * **Customizable controls** - Arrows, Bullets, Autoplay, Bar, Thumbnails, Shadows
@@ -208,6 +208,14 @@ Of course! Smart Slider use protocol relative urls which works fine on http:// a
 9. Layer slider with layers styles. Made with FREE version.
 
 == Changelog ==
+
+= 3.5.1.1 - 20. October 2021 =
+* Feature: Background blur option for the Blur fit fill mode. 
+* Fix: Divi Builder plugin has strong codes so we use a special ss-p tag to display the texts. An issue was fixed related to these ss-p tags that made them display incorrectly. 
+* Fix: Focus incorrectly stayed on the arrow after slide switching. 
+* Fix: Arrows could get highlighted in Safari. 
+* Other: Better handling of the translation files. 
+* Other: French translation added. Thanks, Jean-Francois!
 
 = 3.5.1.0 - 5. October 2021 =
 * Fix: 100% wide image layer appeared wrong when it had a link on it. 

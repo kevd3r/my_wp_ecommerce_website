@@ -85,6 +85,8 @@ class Slider extends AbstractRenderable {
 
     private $sliderRow;
 
+    private $fallbackId;
+
     public $exposeSlideData = array(
         'title'         => true,
         'description'   => false,
@@ -156,7 +158,6 @@ class Slider extends AbstractRenderable {
                 $this->hasError = true;
                 throw new Exception('Slider does not exists!');
             } else {
-
                 if (!$this->isAdminArea && $sliderRow['status'] != 'published') {
                     $this->hasError = true;
                     throw new Exception('Slider is not published!');
@@ -214,10 +215,21 @@ class Slider extends AbstractRenderable {
         if ($this->loadState < self::LOAD_STATE_ALL) {
 
             $this->initSlides();
-
-
             $this->loadState = self::LOAD_STATE_ALL;
         }
+    }
+
+
+    private function setSliderIDFromAlias($slider) {
+        if (is_numeric($slider)) {
+            return $slider;
+        } else {
+            $slidersModel = new ModelSliders($this->MVCHelper);
+            $slider       = $slidersModel->getByAlias($slider);
+
+            return $slider['id'];
+        }
+
     }
 
     private function loadSlider() {
@@ -346,6 +358,10 @@ class Slider extends AbstractRenderable {
             'class'     => implode(' ', $classes),
             'data-ssid' => $this->sliderId
         );
+
+        if ($this->fallbackId) {
+            $sliderAttributes['data-fallback-for'] = $this->fallbackId;
+        }
 
         $ariaLabel = $this->params->get('aria-label', 'Slider');
         if (!empty($ariaLabel)) {

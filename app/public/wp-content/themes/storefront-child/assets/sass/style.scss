@@ -23,9 +23,12 @@ Images License: GNU General Public License v2 or later
 /*
  * Add your own custom css below this text.
  */
+
+/*------------ functions variables & mixins --------------------------------*/
   /*font-family: 'Poppins', sans-serif;*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+/*-----------------Variables -----------------------------------------------*/
 $base-red-color:#FF0000;
 $base-color-yellow:#FBB03B;
 $base-color-grey:#CECECE;
@@ -33,6 +36,29 @@ $font-stack: 'Poppins',sans-serif;
 $media-small-screen:"@media screen and (max-width:468px)";
 $media-large-screen:"@media screen and (min-width : 768px)";
 $media-laptop:"@media screen and (min-width : 1024px)";
+$margin-left:"margin-left";
+$margin-right:"margin-right";
+$margin-top:"margin-top";
+$margin-bottom:"margin-bottom";
+$width:"width";
+$height:"height";
+$display:"display";
+/*---- breakpoints' mapping-----------------*/
+$breakpoints:(
+  "phone": 480px,
+  "tablet": 768px,
+  "laptop": 1024px
+);
+
+/*----------------Mixins --------------------------------------------------*/
+@mixin display-width($display, $width){
+  display: $display;
+  width: $width;
+}
+@mixin width-height($width,$height){
+  width: $width;
+  height: $height;
+}
 @mixin frontpage-text(){
   color: white;
   font-weight: bold;
@@ -51,9 +77,29 @@ $media-laptop:"@media screen and (min-width : 1024px)";
   height: 6vh;
   color: black;
 }
+
+@mixin margin-left-right($margin-left, $margin-right){
+  margin-left : $margin-left();
+  margin-right : $margin-right();
+}
+
+@mixin margin-left-right-top-bottom($margin-left,$margin-right,$margin-top,$margin-bottom){
+  margin-left: $margin-left;
+  margin-right: $margin-right;
+  margin-top: $margin-top;
+  margin-bottom: $margin-bottom;
+}
 @mixin log-in-input-hover(){
   border: 3px solid lightgray;
 }
+
+@mixin media-max($_key){
+  @media screen and (max-width: map-get($breakpoints, $_key)){
+    &{ @content; }
+  }
+}
+
+/*------------------- scss ---------------------------*/
 *{
   font-family:$font-stack;
 }
@@ -64,41 +110,47 @@ body{
  /*------------------ New header's css-----------------*/
  
 #page{
-  width: 100%;
-  height: auto;
+  @include width-height(100%, auto);
 }
 
 #masthead{
+  @include display-width(flex, 100%);
   padding-top: 3vh;
   margin-bottom: 0;
-  display:flex;
   align-items:center;
   border-bottom: none;
-  width: 100%;
   background: transparent;
   .col-full{
     display:flex;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: auto;
-    margin-bottom: auto;
+    @include margin-left-right-top-bottom(0, 0, auto, auto);
     .site-search{
       display: none;
     }
   }
+  #site-navigation{
+    margin-left: auto;
+    .menu-toggle{
+      border: none;
+      @include media-max("tablet"){
+        background: transparent;
+        filter: invert(1);
+      }
+    }
+  }
 }
 .site-branding{
-  display: flex !important;
-  width: auto;
+  @include display-width(flex, 100%);
   margin: 0;
   align-items: center;
   .custom-logo-link{
-    display: flex;
-    width: 100%;
+    @include display-width(flex, 100%);
     .custom-logo{
       max-height:3vh;
       width: auto;
       filter: invert(100%);
+      @include media-max("tablet"){
+        @include width-height(5vh, 5vh);
+      }
     }
   }
   .main-title{
@@ -107,13 +159,19 @@ body{
     flex-wrap: nowrap;
     margin-bottom: 0;
     margin-left: 2vh;
+    @include media-max("tablet"){
+      font-size: 1em;
+    }
   }   
 }
+
 .storefront-primary-navigation{
-  display: flex;
+  @include display-width(flex, 100%);
   justify-content: center;
   @include frontpage-text();
-  width: 100%;
+  >.col-full{
+    width: 100%;
+  }
 }
 #site-header-cart{
   display: none;
@@ -132,8 +190,7 @@ body{
   background-color: transparent;
   .bi.bi-person{
     color: white;
-    width: 4vh;
-    height: 4vh;
+    @include width-height(4vh, 4vh);
   }
   .bi.bi-person:hover{
     transform: scale(1.2);
@@ -233,10 +290,8 @@ body{
 #content{
   display: flex;
   .col-full{
-    display: flex;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    @include display-width(flex, 100%);
+    @include margin-left-right(0, 0);
     padding-left: 0;
     padding-right: 0;
     max-width: none;
@@ -247,9 +302,8 @@ body{
 #primary{
   display: flex;
   #main{
-  display: block;
-  width: 100%;
-  padding-top: 0;
+    @include display-width(block, 100%);
+    padding-top: 0;
     >div:first-child{
       display: flex;
       position: absolute;
@@ -260,22 +314,39 @@ body{
 }
 
 /*--------------homepage's css-----------------*/
+#n2-ss-3{
+  @include media-max("phone"){
+    display: none;
+  }
+}
 #post-43{
   width: 100%;
+  @include media-max("tablet"){
+    padding-top: 0;
+  }
     .col-full{
       display:block;
       .main-title{
-        margin-left: 30%;
-        margin-top: 5vh;
-        margin-bottom: 7vh;
+        @include media-max("phone"){
+          background-image: url(../img/mobile_frontpage_image_sm.png);
+        }
+        @include margin-left-right-top-bottom(30%, auto, 5vh, 7vh);
         h2{/*main title changeable title by client*/
-        @include frontpage-text();
-        font-size: 7vh;
-        width: 40vh;
-        height: 25vh;
+          @include media-max("tablet"){
+            font-size: 1.2em;
+          }
+          @include frontpage-text();
+          font-size: 7vh;
+          @include width-height(40vh, 25vh);
         }
       }
       .shopBtn{/*shop button's css*/
+        @include media-max("phone"){
+          display: none;
+        }
+        @include media-max("tablet"){
+          display: none;
+        }
         margin-left: 30%;
         margin-bottom: 10%;
         display: flex;
@@ -283,8 +354,7 @@ body{
           background-color: $base-color-yellow;
           border-radius: 50% 50%;
           color: white;
-          width: 4vh;
-          height: 4vh;
+          @include width-height(4vh, 4vh);
           content: \002794;
           justify-content: center;
           display: flex;
@@ -292,24 +362,23 @@ body{
         >p{
           color: white;
           @include frontpage-text();
-          margin-left: 2vh;
+          @include margin-left-right-top-bottom(2vh, auto, auto, auto);
           text-align: center;
-          margin-top: auto;
-          margin-bottom: auto;
         }
       }
 
       #bottom-banner{/*bottom banner info frontpage maybe changeable by client*/
+        @include media-max("tablet"){
+          display: none;
+        }
         margin-right: 20%;
-        display: flex;
-        width: 80%;
+        @include display-width(flex, 80%);
         background-color: white;
         border-radius: 0px 50px 0px 0px ;
         align-items: center;
         height: 10vh;
         >img{
-          margin-left: 5vh;
-          margin-right: 5vh;
+          @include margin-left-right(5vh,5vh);
           width: 5vh;
         }
         >div>h2{
@@ -324,16 +393,20 @@ body{
       .entry-header{/* Page's title non diplayed on the page*/
         display: none;
       }
+      >.entry-content{
+        padding-top: 5vh;
+      }
   }
 }
 /*--------- first 3 images: special offers changeable by client*/
 .entry-content{
   max-width: 90%;
   min-width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 5%;
+  @include margin-left-right-top-bottom(5%, 5%, 5%, -bottom);
   .wp-block-column{/*resizing images' boxes*/
+    @include media-max("tablet"){
+      flex-wrap: nowrap;
+    }
     max-height: 436px;
     >div{
       max-height: 436px;
@@ -371,9 +444,7 @@ body{
     >p{
       width: 50%;
       text-align: left;
-      margin-left: 5vw;
-      margin-top: auto;
-      margin-bottom: auto;
+      @include margin-left-right-top-bottom(5vw, -right, auto, auto);
     }
     .mailpoet_paragraph{
       margin-top: auto;
@@ -401,8 +472,7 @@ body{
           >figure{
             display: flex;
             .wp-image-95{
-              width: 5vh;
-              height: 5vh;
+              @include width-height(5vh, 5vh);
               margin-right: 5vh;
             }
             >figcaption{
@@ -420,6 +490,14 @@ body{
       .block.footer-widget-4{
         width: 15%;
         margin-right: 6%;
+      }
+    }
+    .storefront-handheld-footer-bar{
+      @include media-max("phone"){
+        display:  none;
+      }
+      @include media-max("tablet"){
+        display:  none;
       }
     }
   }

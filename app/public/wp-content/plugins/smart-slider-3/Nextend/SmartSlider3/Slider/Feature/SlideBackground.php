@@ -140,8 +140,10 @@ class SlideBackground {
         }
 
         $fillMode = $slide->parameters->get('backgroundMode', 'default');
+
         if ($fillMode == 'default') {
             $fillMode = $this->slider->params->get('backgroundMode', 'fill');
+
         }
 
         $backgroundElements = array();
@@ -376,15 +378,27 @@ class SlideBackground {
         $originalImage = Html::tag('div', $attributes, $picture);
 
         if ($fillMode === 'blurfit') {
+            $slideOption = $slide->parameters->get('backgroundMode', 'default');
 
-            $picture = '<picture style="filter:blur(7px)">' . implode('', $sources) . '</picture>';
-
+            if ($slideOption === 'blurfit') {
+                $blurFit = $slide->parameters->get('backgroundBlurFit', 7);
+            } else {
+                $blurFit                        = $this->slider->params->get('backgroundBlurFit', 7);
+                $attributes['data-blurfitmode'] = 'default';
+            }
+            $picture      = "<picture style='filter:blur(" . $blurFit . "px)'>" . implode('', $sources) . "</picture>";
+            $blurFitStyle = array(
+                'margin:-' . ($blurFit * 2) . 'px',
+                'padding:' . ($blurFit * 2) . 'px'
+            );
             if (!isset($attributes['style'])) {
                 $attributes['style'] = '';
             }
-            $attributes['style'] .= 'margin:-14px;padding:14px;';
 
-            $ret = Html::tag('div', $attributes, $picture) . $originalImage;
+            $attributes['data-globalblur'] = $this->slider->params->get('backgroundBlurFit', 7);
+            $attributes['data-bgblur']     = $slide->parameters->get('backgroundBlurFit', 7);
+            $attributes['style']           = implode(';', $blurFitStyle);
+            $ret                           = Html::tag('div', $attributes, $picture) . $originalImage;
         } else {
             $ret = $originalImage;
         }
