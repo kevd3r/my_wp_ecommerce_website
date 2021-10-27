@@ -112,28 +112,32 @@ add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
 function enqueue_Rhinos_modal() {
     wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
 }
-
-
-/**--- shortcode for header's modal ------ */
-function user_login(){
-  
-  echo do_shortcode('[user_registration_form id="402"]');
-}
 ?>
 
 <?php
-function user_datas(){
-  try{
-    $pdo=new PDO(
-      'mysql:host=localhost;dbname=local',
-      'root',
-      'root'
-    );
-    foreach ($pdo->query('SELECT user_login FROM wp_users',PDO::FETCH_ASSOC)as $user){
-      echo $user['user_login'];
-    }
-  } catch (PDOException $e){
-    echo 'Impossible de récupérer les datas';
+/**-------- registration's user 's modal ------------*/
+function user_login(){
+  wp_login_form();
+} 
+
+function userRegister(){
+  
+  if (is_user_logged_in()){
+    echo "Ravis de vous revoir parmi nous !";
+  } else {
+    user_login();
   }
-}
-?>
+}?>
+
+<?php
+/**---- trying to catch baock user name DOESN'T WORK FOR INSTANT ------ */
+/**function wp_get_current_user(){
+  global $current_user;
+  if(!empty($current_user)){
+    if($current_user instanceOf WP_User){
+      return $current_user;
+      var_dump($current_user);
+    }
+  }
+  return wp_get_current_user();
+};?>  */

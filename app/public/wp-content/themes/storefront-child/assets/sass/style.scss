@@ -138,7 +138,8 @@ body{
     }
   }
 }
-.site-branding{
+.site header .site-branding{
+  display:flex;
   @include display-width(flex, 100%);
   margin: 0;
   align-items: center;
@@ -150,6 +151,7 @@ body{
       filter: invert(100%);
       @include media-max("tablet"){
         @include width-height(5vh, 5vh);
+      }
       }
     }
   }
@@ -163,7 +165,7 @@ body{
       font-size: 1em;
     }
   }   
-}
+
 
 .storefront-primary-navigation{
   @include display-width(flex, 100%);
@@ -220,8 +222,7 @@ body{
       transform : scale(1.2);
     }
     h2{
-      margin-left: auto;
-      margin-right: auto;
+      @include margin-left-right(auto, auto);
       text-align: center;
       font-weight: bold;
     }
@@ -326,7 +327,10 @@ body{
   }
     .col-full{
       display:block;
+      width: 100%;
       .main-title{
+        margin-bottom: 25vh;
+        height: auto;
         @include media-max("phone"){
           background-image: url(../img/mobile_frontpage_image_sm.png);
         }

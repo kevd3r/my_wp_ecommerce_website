@@ -1,0 +1,194 @@
+2021-10-27T07:30:05+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T07:30:05+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T07:30:51+00:00 CRITICAL syntax error, unexpected '(', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:30:52+00:00 CRITICAL syntax error, unexpected '(', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:30:56+00:00 CRITICAL syntax error, unexpected '(', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:30:56+00:00 CRITICAL syntax error, unexpected '(', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:40+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:41+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:42+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:43+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:44+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:31:45+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:37+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:37+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:40+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:41+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:42+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:32:43+00:00 CRITICAL syntax error, unexpected '{', expecting ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-27T07:47:33+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T07:47:35+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T07:47:36+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T07:47:43+00:00 CRITICAL syntax error, unexpected '<' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T08:19:02+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T08:19:03+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T08:19:04+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 122
+
+2021-10-27T08:30:10+00:00 CRITICAL syntax error, unexpected 'provider' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 65
+
+2021-10-27T08:30:12+00:00 CRITICAL syntax error, unexpected 'provider' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 65
+
+2021-10-27T09:00:58+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:00:58+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:00:59+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:01:00+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:01:01+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:01:03+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:01:06+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:02:24+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:02:25+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 151
+
+2021-10-27T09:57:40+00:00 CRITICAL Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 135
+
+2021-10-27T09:57:44+00:00 CRITICAL Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 135
+
+2021-10-27T09:57:57+00:00 CRITICAL Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 135
+
+2021-10-27T12:00:54+00:00 CRITICAL Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 74
+
+2021-10-27T12:01:00+00:00 CRITICAL Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 73
+
+2021-10-27T12:01:06+00:00 CRITICAL Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 73
+
+2021-10-27T12:01:10+00:00 CRITICAL Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 73
+
+2021-10-27T12:32:52+00:00 CRITICAL Object of class WP_User could not be converted to string dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 64
+
+2021-10-27T12:32:55+00:00 CRITICAL Object of class WP_User could not be converted to string dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php à la ligne 64
+
+2021-10-27T12:37:20+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:37:21+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:37:22+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:37:23+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:38:36+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:38:36+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:38:37+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:38:38+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:07+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:08+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:08+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:09+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:11+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:39:12+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:02+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:02+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:04+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:05+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:11+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:11+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:35+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:36+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:38+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+
+2021-10-27T12:40:39+00:00 CRITICAL Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 134
+

@@ -869,3 +869,430 @@ Stack trace:
 #6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
 #7 {main}
   thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 65
+[27-Oct-2021 07:30:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 07:30:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 07:30:51 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:30:52 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:30:56 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:30:56 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:31:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:40 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:41 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:42 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:32:43 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[27-Oct-2021 07:47:33 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 07:47:35 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 07:47:36 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 07:47:42 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 08:19:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 08:19:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 08:19:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[27-Oct-2021 08:30:10 UTC] PHP Parse error:  syntax error, unexpected 'provider' (T_STRING), expecting ']' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 65
+[27-Oct-2021 08:30:12 UTC] PHP Parse error:  syntax error, unexpected 'provider' (T_STRING), expecting ']' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 65
+[27-Oct-2021 09:00:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:00:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:00:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:01:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:01:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:01:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:01:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:02:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:02:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 151
+[27-Oct-2021 09:03:29 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 2 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 149
+[27-Oct-2021 09:03:29 UTC] PHP Stack trace:
+[27-Oct-2021 09:03:29 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:03:29 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:03:29 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:03:29 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:03:29 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[27-Oct-2021 09:03:29 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[27-Oct-2021 09:03:29 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:03:29 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[27-Oct-2021 09:03:29 UTC] PHP   9. userRegister() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:64
+[27-Oct-2021 09:03:29 UTC] PHP  10. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:149
+[27-Oct-2021 09:03:33 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 2 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 149
+[27-Oct-2021 09:03:33 UTC] PHP Stack trace:
+[27-Oct-2021 09:03:33 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:03:33 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:03:33 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:03:33 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:03:33 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\page.php:13
+[27-Oct-2021 09:03:33 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[27-Oct-2021 09:03:33 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:03:33 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[27-Oct-2021 09:03:33 UTC] PHP   9. userRegister() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:64
+[27-Oct-2021 09:03:33 UTC] PHP  10. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:149
+[27-Oct-2021 09:03:35 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 2 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 149
+[27-Oct-2021 09:03:35 UTC] PHP Stack trace:
+[27-Oct-2021 09:03:35 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:03:35 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:03:35 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:03:35 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:03:35 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[27-Oct-2021 09:03:35 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[27-Oct-2021 09:03:35 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:03:35 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[27-Oct-2021 09:03:35 UTC] PHP   9. userRegister() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:64
+[27-Oct-2021 09:03:35 UTC] PHP  10. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:149
+[27-Oct-2021 09:55:25 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:55:25 UTC] PHP Stack trace:
+[27-Oct-2021 09:55:25 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:55:25 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:55:25 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:55:25 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:55:25 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 09:55:25 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 09:55:25 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 09:55:25 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 09:55:25 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 09:55:25 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 09:55:25 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:55:25 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 09:55:25 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 09:55:25 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 09:55:28 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:55:28 UTC] PHP Stack trace:
+[27-Oct-2021 09:55:28 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:55:28 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:55:28 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:55:28 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:55:28 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 09:55:28 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 09:55:28 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 09:55:28 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 09:55:28 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 09:55:28 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 09:55:28 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:55:28 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 09:55:28 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 09:55:28 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 09:56:57 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:56:57 UTC] PHP Stack trace:
+[27-Oct-2021 09:56:57 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:56:57 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:56:57 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:56:57 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:56:57 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 09:56:57 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 09:56:57 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 09:56:57 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 09:56:57 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 09:56:57 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 09:56:57 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:56:57 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 09:56:57 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 09:56:57 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 09:57:01 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:57:01 UTC] PHP Stack trace:
+[27-Oct-2021 09:57:01 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:57:01 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:57:01 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:57:01 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:57:01 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 09:57:01 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 09:57:01 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 09:57:01 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 09:57:01 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 09:57:01 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 09:57:01 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:57:01 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 09:57:01 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 09:57:01 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 09:57:04 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:57:04 UTC] PHP Stack trace:
+[27-Oct-2021 09:57:04 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 09:57:04 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 09:57:04 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 09:57:04 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 09:57:04 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 09:57:04 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 09:57:04 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 09:57:04 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 09:57:04 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 09:57:04 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 09:57:04 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 09:57:04 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 09:57:04 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 09:57:04 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 09:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 09:57:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_current_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php(74): user_datas()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require('C:\\Users\\KDerot...')
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp- in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 10:02:41 UTC] PHP Warning:  get_current_user() expects exactly 0 parameters, 1 given in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[27-Oct-2021 10:02:41 UTC] PHP Stack trace:
+[27-Oct-2021 10:02:41 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 10:02:41 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 10:02:41 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 10:02:41 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 10:02:41 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 10:02:41 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 10:02:41 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 10:02:41 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 10:02:41 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 10:02:41 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 10:02:41 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 10:02:41 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 10:02:41 UTC] PHP  13. user_datas() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+[27-Oct-2021 10:02:41 UTC] PHP  14. get_current_user() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php:135
+[27-Oct-2021 12:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:74
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 74
+[27-Oct-2021 12:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 73
+[27-Oct-2021 12:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 73
+[27-Oct-2021 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDatas() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:73
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 73
+[27-Oct-2021 12:32:52 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 64
+[27-Oct-2021 12:32:52 UTC] PHP Stack trace:
+[27-Oct-2021 12:32:52 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:32:52 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:32:52 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 12:32:52 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 12:32:52 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 12:32:52 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 12:32:52 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 12:32:52 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 12:32:52 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 12:32:52 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 12:32:52 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 12:32:52 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 12:32:55 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 64
+[27-Oct-2021 12:32:55 UTC] PHP Stack trace:
+[27-Oct-2021 12:32:55 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:32:55 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:32:55 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[27-Oct-2021 12:32:55 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[27-Oct-2021 12:32:55 UTC] PHP   5. do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:31
+[27-Oct-2021 12:32:55 UTC] PHP   6. WP_Hook->do_action() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php:470
+[27-Oct-2021 12:32:55 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:327
+[27-Oct-2021 12:32:55 UTC] PHP   8. storefront_homepage_content() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php:303
+[27-Oct-2021 12:32:55 UTC] PHP   9. get_template_part() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php:612
+[27-Oct-2021 12:32:55 UTC] PHP  10. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:204
+[27-Oct-2021 12:32:55 UTC] PHP  11. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[27-Oct-2021 12:32:55 UTC] PHP  12. require() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:772
+[27-Oct-2021 12:37:20 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:37:20 UTC] PHP Stack trace:
+[27-Oct-2021 12:37:20 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:37:20 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:37:20 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:37:20 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:37:20 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:37:21 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:37:21 UTC] PHP Stack trace:
+[27-Oct-2021 12:37:21 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:37:21 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:37:21 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:37:21 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:37:21 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:37:22 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:37:22 UTC] PHP Stack trace:
+[27-Oct-2021 12:37:22 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:37:22 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:37:22 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:37:22 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:37:22 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:37:23 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:37:23 UTC] PHP Stack trace:
+[27-Oct-2021 12:37:23 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:37:23 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:37:23 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:37:23 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:37:23 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:38:36 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:38:36 UTC] PHP Stack trace:
+[27-Oct-2021 12:38:36 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:38:36 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:38:36 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:38:36 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:38:36 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:38:36 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:38:36 UTC] PHP Stack trace:
+[27-Oct-2021 12:38:36 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:38:36 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:38:36 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:38:36 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:38:36 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:38:37 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:38:37 UTC] PHP Stack trace:
+[27-Oct-2021 12:38:37 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:38:37 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:38:37 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:38:37 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:38:37 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:38:38 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:38:38 UTC] PHP Stack trace:
+[27-Oct-2021 12:38:38 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:38:38 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:38:38 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:38:38 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:38:38 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:07 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:07 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:07 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:07 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:07 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:07 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:07 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:08 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:08 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:08 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:08 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:08 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:08 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:08 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:08 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:08 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:08 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:08 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:08 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:08 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:08 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:09 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:09 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:09 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:09 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:09 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:09 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:09 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:11 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:11 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:11 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:11 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:11 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:11 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:11 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:39:12 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:39:12 UTC] PHP Stack trace:
+[27-Oct-2021 12:39:12 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:39:12 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:39:12 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:39:12 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:39:12 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:02 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:02 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:02 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:02 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:02 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:02 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:02 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:02 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:02 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:02 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:02 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:02 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:02 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:02 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:04 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:04 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:04 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:04 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:04 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:04 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:04 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:05 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:05 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:05 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:05 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:05 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:05 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:05 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:11 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:11 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:11 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:11 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:11 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:11 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:11 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:11 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:11 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:11 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:11 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:11 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:11 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:11 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:35 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:35 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:35 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:35 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:35 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:35 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:35 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:36 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:36 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:36 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:36 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:36 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:36 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:36 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:38 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:38 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:38 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:38 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:38 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:38 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:38 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77
+[27-Oct-2021 12:40:39 UTC] PHP Fatal error:  Cannot redeclare wp_get_current_user() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:69) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 134
+[27-Oct-2021 12:40:39 UTC] PHP Stack trace:
+[27-Oct-2021 12:40:39 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[27-Oct-2021 12:40:39 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[27-Oct-2021 12:40:39 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:13
+[27-Oct-2021 12:40:39 UTC] PHP   4. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-load.php:50
+[27-Oct-2021 12:40:39 UTC] PHP   5. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-config.php:77

@@ -58,11 +58,11 @@
 <!-- Modal content -->
 		<div class="modal-content" id="modal-content" role="dialog" tabindex="-1">
  		 	<div class="modal-header">
-    		<button class="close" id="close">&times;</button>
+    		<button class="close" id="close" type="button">&times;</button>
     		<h2>Log In</h2>
   		</div>
-				<?php wp_login_form(); ?>
-    		
+			<?php user_login();?>
+			
 		
 		</div>
 	</header><!-- #masthead -->
