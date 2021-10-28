@@ -117,27 +117,16 @@ function enqueue_Rhinos_modal() {
 <?php
 /**-------- registration's user 's modal ------------*/
 function user_login(){
-  wp_login_form();
-} 
-
-function userRegister(){
-  
-  if (is_user_logged_in()){
-    echo "Ravis de vous revoir parmi nous !";
-  } else {
-    user_login();
-  }
-}?>
-
-<?php
-/**---- trying to catch baock user name DOESN'T WORK FOR INSTANT ------ */
-/**function wp_get_current_user(){
-  global $current_user;
-  if(!empty($current_user)){
-    if($current_user instanceOf WP_User){
-      return $current_user;
-      var_dump($current_user);
-    }
-  }
-  return wp_get_current_user();
-};?>  */
+  if ( is_user_logged_in() ){
+    echo 'Welcome, registered user!';
+    ?>
+    <button type="button" id="logout-button"><p>Logout</p></button>
+    <?php
+  }else{
+    wp_login_form();
+    ?>
+    <button type="button" id="new-user">New User ?</button>
+    <?php
+  };
+};
+?>

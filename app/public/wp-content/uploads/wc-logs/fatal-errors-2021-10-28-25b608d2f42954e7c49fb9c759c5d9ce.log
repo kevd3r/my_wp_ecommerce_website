@@ -1,0 +1,94 @@
+2021-10-28T06:47:08+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:47:08+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:47:45+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:47:46+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:47:47+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:47:47+00:00 CRITICAL syntax error, unexpected '?' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 120
+
+2021-10-28T06:48:55+00:00 CRITICAL syntax error, unexpected ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-28T06:48:57+00:00 CRITICAL syntax error, unexpected ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-28T06:48:59+00:00 CRITICAL syntax error, unexpected ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-28T06:49:03+00:00 CRITICAL syntax error, unexpected ':' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 121
+
+2021-10-28T07:22:31+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:24:32+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:09+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:10+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:31+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:32+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:34+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:37+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T07:31:38+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 129
+
+2021-10-28T08:17:57+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:17:58+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:17:58+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:17:59+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:28:56+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:28:56+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:28:57+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:28:58+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:30:21+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:30:21+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:30:22+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:30:23+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:44+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:45+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:46+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:47+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:47+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:52+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:53+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:53+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:42:54+00:00 CRITICAL Cannot redeclare wp_logout() (previously declared in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:629) dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 132
+
+2021-10-28T08:43:47+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 127
+
+2021-10-28T08:43:47+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 127
+
+2021-10-28T08:44:48+00:00 CRITICAL syntax error, unexpected '}' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php à la ligne 127
+
+2021-10-28T09:08:02+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 71
+
+2021-10-28T09:08:04+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 71
+
+2021-10-28T09:09:24+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 71
+
+2021-10-28T09:09:26+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' dans C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php à la ligne 71
+

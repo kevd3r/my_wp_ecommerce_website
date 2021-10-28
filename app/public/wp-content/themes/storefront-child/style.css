@@ -147,8 +147,15 @@ body {
   width: 4vh;
   height: 4vh;
 }
+#user_connect .bi.bi-person #popup {
+  display: none;
+}
 #user_connect .bi.bi-person:hover {
   transform: scale(1.2);
+}
+#user_connect .bi.bi-person:hover #popup {
+  display: block;
+  position: absolute;
 }
 
 #modal-content {
@@ -281,6 +288,9 @@ body {
 }
 #modal-content .modal-body #pwd_frgt:hover > p {
   transform: scale(1.1);
+}
+#modal-content #modal-logout {
+  display: none;
 }
 
 /*------------------ frontpage's css ------------ */
