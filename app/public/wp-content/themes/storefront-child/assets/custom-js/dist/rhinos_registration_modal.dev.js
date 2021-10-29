@@ -23,6 +23,7 @@ jQuery(document).ready(function ($) {
    * with same id's
    */
 
+  var bouton = document.getElementById('test-button');
   var newUserLogin = document.querySelectorAll('#modal-body>#loginform>.login-password>input');
   var tmp = [];
   var newId;
@@ -31,6 +32,8 @@ jQuery(document).ready(function ($) {
     console.log(e);
     newId = e.getAttribute('id');
   });
+  console.log(newId);
+  newId = "_pass";
   console.log(newId);
   btn.addEventListener('click', function () {
     modal.style.display = "block";
@@ -43,13 +46,17 @@ jQuery(document).ready(function ($) {
     modalNewUser.style.display = "none";
     console.log('match again');
   });
-  logoutButton.addEventListener('click', function () {
-    modalLogin.style.display = "none";
-    modalLogout.style.display = "block";
-  });
   newUser.addEventListener('click', function () {
+    console.log('WTF ?!!!');
     modalLogin.style.display = "none";
     modalLogout.style.display = "none";
     modalNewUser.style.display = "block";
+  });
+  bouton.addEventListener('click', function () {
+    if (modalLogin.parentNode) {
+      modalLogin.parentNode.removeChild(modalLogin);
+    }
+
+    console.log('yeeeehaaaaaaaaaaaaaaaaaaaaaaaaa!');
   });
 });

@@ -1519,3 +1519,727 @@ Stack trace:
 [28-Oct-2021 09:08:04 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 71
 [28-Oct-2021 09:09:24 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 71
 [28-Oct-2021 09:09:26 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 71
+[29-Oct-2021 07:18:57 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:18:58 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:18:58 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:19:00 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:19:01 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:19:59 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:22:00 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:22:18 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:22:18 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:22:55 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:22:56 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:23:30 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:23:33 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:24:01 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 135
+[29-Oct-2021 07:24:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 120
+[29-Oct-2021 07:24:39 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:24:40 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:25:31 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:26:01 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:27:32 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:28:03 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:29:33 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:31:34 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:33:35 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:42:35 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:42:37 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 121
+[29-Oct-2021 07:44:14 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[29-Oct-2021 07:44:19 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[29-Oct-2021 07:44:20 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[29-Oct-2021 07:44:20 UTC] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 122
+[29-Oct-2021 07:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userLog() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:66
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 66
+[29-Oct-2021 07:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userLog() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:66
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 66
+[29-Oct-2021 08:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:36:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:36:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php(15): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 08:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_user() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:67
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', true, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php(8): get_header()
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\KDerot...')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php(19): require_once('C:\\Users\\KDerot...')
+#6 C:\Users\KDerot\Local Sites\estore\app\public\index.php(17): require('C:\\Users\\KDerot...')
+#7 {main}
+  thrown in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 67
+[29-Oct-2021 11:53:12 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 139
+[29-Oct-2021 11:53:14 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\functions.php on line 139
+[29-Oct-2021 12:49:09 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:09 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:09 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:09 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:09 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:09 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:09 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 12:49:09 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:09 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:09 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 12:49:11 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:11 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:11 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:11 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:11 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:11 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:11 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 12:49:11 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:11 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:11 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 12:49:22 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:22 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:22 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:22 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:22 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:22 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:22 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 12:49:22 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:22 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:22 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 12:49:23 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:23 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:23 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:23 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:23 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:23 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:23 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 12:49:23 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:23 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:23 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 12:49:48 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:48 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:48 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:48 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:48 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:48 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:48 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 12:49:48 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:48 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:48 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 12:49:50 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php on line 68
+[29-Oct-2021 12:49:50 UTC] PHP Stack trace:
+[29-Oct-2021 12:49:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 12:49:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 12:49:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 12:49:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 12:49:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 12:49:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 12:49:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 12:49:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1031
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1031
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1032
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1032
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1033
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1033
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1034
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1034
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1035
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1035
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1036
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1036
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1039
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1039
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1040
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1040
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1043
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1043
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1044
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1044
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1045
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1045
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1046
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1046
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1049
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1049
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1050
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1050
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1051
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1051
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1052
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1052
+[29-Oct-2021 13:19:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1055
+[29-Oct-2021 13:19:49 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:49 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:49 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:49 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:49 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:49 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\template-homepage.php:15
+[29-Oct-2021 13:19:49 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:49 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:49 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:49 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:49 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:49 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1055
+[29-Oct-2021 13:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:19
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 19
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1031
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1031
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1032
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1032
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1033
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1033
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1034
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1034
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1035
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1035
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1036
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1036
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1039
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1039
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1040
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1040
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1043
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1043
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1044
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1044
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1045
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1045
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1046
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1046
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1049
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1049
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1050
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1050
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1051
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1051
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1052
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1052
+[29-Oct-2021 13:19:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class.wp-styles.php:214) in C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php on line 1055
+[29-Oct-2021 13:19:50 UTC] PHP Stack trace:
+[29-Oct-2021 13:19:50 UTC] PHP   1. {main}() C:\Users\KDerot\Local Sites\estore\app\public\index.php:0
+[29-Oct-2021 13:19:50 UTC] PHP   2. require() C:\Users\KDerot\Local Sites\estore\app\public\index.php:17
+[29-Oct-2021 13:19:50 UTC] PHP   3. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-blog-header.php:19
+[29-Oct-2021 13:19:50 UTC] PHP   4. include() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template-loader.php:106
+[29-Oct-2021 13:19:50 UTC] PHP   5. get_header() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\404.php:8
+[29-Oct-2021 13:19:50 UTC] PHP   6. locate_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php:48
+[29-Oct-2021 13:19:50 UTC] PHP   7. load_template() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:716
+[29-Oct-2021 13:19:50 UTC] PHP   8. require_once() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php:770
+[29-Oct-2021 13:19:50 UTC] PHP   9. wp_logout() C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\header.php:70
+[29-Oct-2021 13:19:50 UTC] PHP  10. wp_clear_auth_cookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:633
+[29-Oct-2021 13:19:50 UTC] PHP  11. setcookie() C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\pluggable.php:1055
+[29-Oct-2021 13:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:19
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 19
+[29-Oct-2021 13:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:19
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 19
+[29-Oct-2021 13:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php:19
+Stack trace:
+#0 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(772): require()
+#1 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\template.php(716): load_template('C:\\Users\\KDerot...', false, Array)
+#2 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(612): get_template_part('content', 'homepage')
+#4 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(303): storefront_homepage_content('')
+#5 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\Users\KDerot\Local Sites\estore\app\public\wp-includes\plugin.php(470): WP_Hook->do_action in C:\Users\KDerot\Local Sites\estore\app\public\wp-content\themes\storefront-child\content-homepage.php on line 19

@@ -123,10 +123,25 @@ function user_login(){
     <button type="button" id="logout-button"><p>Logout</p></button>
     <?php
   }else{
-    wp_login_form();
+    echo'
+    <form method="post" action="estore.local/wp-login.php" id="loginform" name="loginform">
+      <p>
+        <label for="user_login">Identifiant</label>
+        <input type="text" tabindex="10" size="20" value="" id="user_login" name="log">
+      </p>
+      <p>
+        <label for="user_pass">Mot de passe</label>
+        <input type="password" tabindex="20" size="20" value="" id="user_pass" name="pwd">
+      </p>
+      <p><label><input type="checkbox" tabindex="90" value="forever" id="rememberme" name="rememberme">Rester connecter</label>
+      | <a href="estore.local/wp-login.php?action=lostpassword">Mot de passe oublié</a></p>
+      <p>
+        <input type="submit" tabindex="100" value="Se connecter" id="wp-submit" name="wp-submit">
+        <input type="hidden" value="estore.local" name="redirect_to">
+      </p>
+    </form>'
     ?>
     <button type="button" id="new-user">New User ?</button>
     <?php
-  };
-};
-?>
+  }
+}

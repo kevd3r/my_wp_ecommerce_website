@@ -63,14 +63,15 @@
     		<h2>Log In</h2>
   		</div>
 			<div class="modal-body"id="modal-body">
-				<?php user_login();?>	
+				<button id="test-button">bouton</button>
+				<?php user_login();?>
 			</div>
 			<div class="modal-body"id="modal-logout">
 				<?php wp_logout();?>
 				<?php echo"vous n'êtes plus connecté."?>
 			</div>
 			<div class="modal-body" id="modal-new-user">
-				<?php /*echo do_shortcode( '[user_registration_form id="402"]' );*/?>
+			
 			</div>
 		</div>
 	</header><!-- #masthead -->

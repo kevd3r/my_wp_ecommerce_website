@@ -12,11 +12,13 @@ jQuery(document).ready(function($){
     let newUser =document.getElementById('new-user');
     /** modal's new user screen display*/
     let modalNewUser=document.getElementById('modal-new-user');
-    let userLogin = document.getElementById('user_login');
+    let userLogin = document.getElementById('user_login');  
     /** get the 1st & 2nd passwords' id's because of a conflict
      * with same id's
      */
-    
+    let bouton=document.getElementById('test-button');
+
+
     let newUserLogin= document.querySelectorAll('#modal-body>#loginform>.login-password>input');
     let tmp=[];
     let newId;
@@ -26,7 +28,9 @@ jQuery(document).ready(function($){
       newId = e.getAttribute('id');
     })
     console.log(newId);
-    
+    newId= "_pass";
+    console.log(newId);
+
     btn.addEventListener('click',()=>{
       modal.style.display="block";
       modalLogout.style.display="none";
@@ -40,14 +44,17 @@ jQuery(document).ready(function($){
       console.log('match again');   
     });
 
-    logoutButton.addEventListener('click',()=>{
-      modalLogin.style.display="none";
-      modalLogout.style.display="block";
-    })
-
     newUser.addEventListener('click',()=>{
+      console.log('WTF ?!!!')
       modalLogin.style.display="none";
       modalLogout.style.display="none";
       modalNewUser.style.display="block";
+    })
+
+    bouton.addEventListener('click',()=>{
+      if (modalLogin.parentNode){
+        modalLogin.parentNode.removeChild(modalLogin);
+      }
+      console.log('yeeeehaaaaaaaaaaaaaaaaaaaaaaaaa!');
     })
 });
