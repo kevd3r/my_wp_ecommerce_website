@@ -9,54 +9,12 @@ jQuery(document).ready(function ($) {
   var close = document.getElementById('close');
   /** modal's first display to log in with email & login */
 
-  var modalLogin = document.getElementById('modal-body');
-  var logoutButton = document.getElementById('logout-button');
-  /**modal's logout screen display */
-
-  var modalLogout = document.getElementById('modal-logout');
-  var newUser = document.getElementById('new-user');
-  /** modal's new user screen display*/
-
-  var modalNewUser = document.getElementById('modal-new-user');
-  var userLogin = document.getElementById('user_login');
-  /** get the 1st & 2nd passwords' id's because of a conflict
-   * with same id's
-   */
-
-  var bouton = document.getElementById('test-button');
-  var newUserLogin = document.querySelectorAll('#modal-body>#loginform>.login-password>input');
-  var tmp = [];
-  var newId;
-  newUserLogin.forEach(function (e) {
-    tmp.push(e.getAttribute('id'));
-    console.log(e);
-    newId = e.getAttribute('id');
-  });
-  console.log(newId);
-  newId = "_pass";
-  console.log(newId);
   btn.addEventListener('click', function () {
     modal.style.display = "block";
-    modalLogout.style.display = "none";
-    modalNewUser.style.display = "none";
     $('.modal-header h2').text("Log In");
   });
   close.addEventListener('click', function () {
     modal.style.display = "none";
-    modalNewUser.style.display = "none";
     console.log('match again');
-  });
-  newUser.addEventListener('click', function () {
-    console.log('WTF ?!!!');
-    modalLogin.style.display = "none";
-    modalLogout.style.display = "none";
-    modalNewUser.style.display = "block";
-  });
-  bouton.addEventListener('click', function () {
-    if (modalLogin.parentNode) {
-      modalLogin.parentNode.removeChild(modalLogin);
-    }
-
-    console.log('yeeeehaaaaaaaaaaaaaaaaaaaaaaaaa!');
   });
 });

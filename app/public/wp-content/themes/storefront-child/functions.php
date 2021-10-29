@@ -24,9 +24,13 @@ function sf_child_theme_dequeue_style() {
  */
 add_action('wp_enqueue_scripts', 'theme_enqueue_styles');
 function theme_enqueue_styles(){
-  wp_enqueue_style('parent_style',get_template_directory_uri().'style.css');
+  wp_enqueue_style('parent_style',get_template_directory_uri().'/style.css');
 }
-
+/* fonction ajouter script externe */
+add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
+function enqueue_Rhinos_modal() {
+    wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
+}
 
  /**
   * changing Header's content
@@ -106,13 +110,8 @@ function storefront_page_content() {
   </div><!-- .entry-content -->
   <?php
 }
-
-/* fonction ajouter script externe */
-add_action( 'wp_enqueue_scripts', 'enqueue_Rhinos_modal' );
-function enqueue_Rhinos_modal() {
-    wp_enqueue_script( 'rhinos_modal', get_stylesheet_directory_uri() . '/assets/custom-js/rhinos_registration_modal.js', array( 'jquery' ) );
-}
 ?>
+
 
 <?php
 /**-------- registration's user 's modal ------------*/
@@ -126,12 +125,10 @@ function user_login(){
     echo'
     <form method="post" action="estore.local/wp-login.php" id="loginform" name="loginform">
       <p>
-        <label for="user_login">Identifiant</label>
-        <input type="text" tabindex="10" size="20" value="" id="user_login" name="log">
+        <input type="text" tabindex="10" size="20" value="" id="user_login" name="log" placeholder="username or email">
       </p>
       <p>
-        <label for="user_pass">Mot de passe</label>
-        <input type="password" tabindex="20" size="20" value="" id="user_pass" name="pwd">
+        <input type="password" tabindex="20" size="20" value="" id="user_pass" name="pwd" placeholder="Your password here">
       </p>
       <p><label><input type="checkbox" tabindex="90" value="forever" id="rememberme" name="rememberme">Rester connecter</label>
       | <a href="estore.local/wp-login.php?action=lostpassword">Mot de passe oublié</a></p>
@@ -145,3 +142,4 @@ function user_login(){
     <?php
   }
 }
+?>

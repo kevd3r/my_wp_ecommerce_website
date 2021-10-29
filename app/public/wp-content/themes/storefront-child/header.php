@@ -63,19 +63,12 @@
     		<h2>Log In</h2>
   		</div>
 			<div class="modal-body"id="modal-body">
-				<button id="test-button">bouton</button>
-				<?php user_login();?>
-			</div>
-			<div class="modal-body"id="modal-logout">
-				<?php wp_logout();?>
-				<?php echo"vous n'êtes plus connecté."?>
-			</div>
-			<div class="modal-body" id="modal-new-user">
-			
+				
 			</div>
 		</div>
 	</header><!-- #masthead -->
-
+	<?php do_shortcode('[lrm_form default_tab="login" logged_in_message="You are currently logged in!"]');
+echo'azerttyyyytyty!!'?>
 	<?php
 	/**
 	 * Functions hooked in to storefront_before_content
@@ -93,3 +86,4 @@
 	</div>
 		<?php
 		do_action( 'storefront_content_top' );?>
+
