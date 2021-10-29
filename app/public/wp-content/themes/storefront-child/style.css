@@ -147,15 +147,8 @@ body {
   width: 4vh;
   height: 4vh;
 }
-#user_connect .bi.bi-person #popup {
-  display: none;
-}
 #user_connect .bi.bi-person:hover {
   transform: scale(1.2);
-}
-#user_connect .bi.bi-person:hover #popup {
-  display: block;
-  position: absolute;
 }
 
 #modal-content {
@@ -186,6 +179,12 @@ body {
   margin-right: auto;
   text-align: center;
   font-weight: bold;
+}
+#modal-content .modal-body #loginform .login-username > label {
+  display: none;
+}
+#modal-content .modal-body #loginform .login-password > label {
+  display: none;
 }
 #modal-content .modal-body #firstName {
   font-size: 2vh;

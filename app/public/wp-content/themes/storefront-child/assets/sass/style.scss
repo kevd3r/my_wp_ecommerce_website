@@ -193,18 +193,10 @@ body{
   .bi.bi-person{
     color: white;
     @include width-height(4vh, 4vh);
-    #popup{
-      display: none;
-    }
   }
   .bi.bi-person:hover{
     transform: scale(1.2);
-    #popup{
-      display: block;
-      position: absolute;
-    }
   }
-
 }
 
 #modal-content{
@@ -236,6 +228,18 @@ body{
     }
   }
   .modal-body{
+    #loginform{
+      .login-username{
+        >label{
+          display: none;
+        }
+      }
+      .login-password{
+        >label{
+          display: none;
+        }
+      }
+    }
     #firstName{
       @include log-in-input();
     }
